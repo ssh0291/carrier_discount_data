@@ -1,14 +1,14 @@
 {
-  "collectedAt": "2026-09-30",
+  "collectedAt": "2026-10-02",
   "sources": {
     "SKT": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/list-tab2.do",
     "KT": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
     "LGU": "https://m.lguplus.com/benefit-membership"
   },
   "counts": {
-    "total": 379,
-    "included": 254,
-    "needsReview": 125
+    "total": 373,
+    "included": 251,
+    "needsReview": 122
   },
   "brands": [
     {
@@ -61,7 +61,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -81,7 +81,7 @@
           },
           "conditions": "가입 시 최초 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -105,7 +105,7 @@
           },
           "conditions": "할인 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 1일 1회 이용가능 / 결제 전 직원에게 T 멤버십 카드 제시 / 사우나권종 할인 제외 / 타 할인/적립 혜택과 중복 적용 불가 / T 플러스포인트 사용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1156",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -126,7 +126,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -151,7 +151,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 할인 또는 적립, 사용 제한 없음 (본인에 한함) / 최대 할인 금액 : 일 최대 20,000원 / 최대 적립 금액 : 일 최대 20,000P / 결제 전 직원에게 T 멤버십 카드 제시 / 제조음료에 한함 / 할인 전 정상판매가격 기준 / 타 할인/적립 및 쿠폰 등 다른 혜택과 동시적용 불가 / 이벤트 전용 상품에는 할인 또는 적립 제외 / 스템프 적립과 중복 적용 불가 / 제외 매장 : 백화점, 마트, 홈플러스, 아울렛, 공항, 휴게소, NC점, AK점 외 일부 매장 사용 불가 / 자세한 매장명은 공차 홈페이지 참조 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 다음날부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=771",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -159,7 +159,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -178,7 +178,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -197,7 +197,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -205,7 +205,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -224,7 +224,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -255,7 +255,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -274,7 +274,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -292,7 +292,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -300,7 +300,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -318,7 +318,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -350,7 +350,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -372,7 +372,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -392,7 +392,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -416,7 +416,7 @@
           },
           "conditions": "T 멤버십 앱 &gt; 혜택 브랜드 &gt; 네이처스케이프 플러스 쿠폰 다운로드 &gt; MY &gt; 쿠폰함에서 확인 / 현장에서 티켓 발권 후 입장하실 수 있습니다. * 현장 직원에게 T 멤버십 쿠폰을 보여 주면 할인 혜택을 받으실 수 있습니다. / 운영 시간: 오전 10시~오후 7시 / 이용 시간: 평일: 무제한 / 주말 및 공휴일: 4시간(이용 시간 초과 시 추가 금액 발생) * 폐장 1시간 전 매표 및 입장 마감 * 하절기/동절기, 이벤트 타임 발생 시 변동될 수 있습니다. / 대인권: 중학생 이상(정가 24,500원) / 소인권: 36개월~초등학생(정가 29,500원) / 36개월 미만 무료 입장(증빙서류 지참 필수) / 단독 입장 기준 - 초등 4학년 이상(학년을 알 수 있는 증빙 서류(학교 앱, 가족관계증명서 등) 필수 지참 - 초등 4학년 미만은 안전을 위해 보호자 동반 필수 / 횟수 제한: 1일 1회 / 월 2회까지 할인 / 본인+동반 3인까지 할인 혜택 제공 / 주말은 이용 시간 초과 시 10분당 1,000원의 추가요금이 있습니다. / 퇴장 후 재입장이 불가합니다. / 입장객의 원활한 체험시설 이용을 위해 최대 수용 인원 초과 시, 일정 시간 동안 입장을 제한하며 티켓 발권이 중단될 수 있습니다. / 주말 및 공휴일에는 많은 고객들의 방문으로 파크 내부가 혼잡할 수 있으며, 입장 및 시설 이용 시 대기 시간이 발생할 수 있습니다. / 안전하고 즐거운 이용을 위해 아래 물품의 반입을 제한하고 있습니다. - 외부 음식물 및 반려동물은 입장이 불가합니다. (단, 시각안내견 및 청각 도우미견의 경우 시각장애인과 청각장애인이 동반 입장 시 허용) / 편안한 복장과 운동화, 양말을 꼭 착용 후 이용해 주시기 바랍니다. / (학년을 알 수 있는 증빙서류 필수 지참 / 학교 앱, 가족관계증명서 등으로 나이 확인) / 이 쿠폰은 다른 쿠폰과 중복으로 사용하실 수 없습니다. / 이 쿠폰은 다른 사람에게 넘겨줄 수 없습니다. / 이 쿠폰은 현금으로 환불하거나 교환하실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5337",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -450,7 +450,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -469,7 +469,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -503,7 +503,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -523,7 +523,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -542,7 +542,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -563,7 +563,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -583,7 +583,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -607,7 +607,7 @@
           },
           "conditions": "할인 횟수: 본인, 동반 3인(1일 1회) / 본인 포함 4인 / 해당 할인 혜택은 현장 방문만 유효합니다.(온라인 구매 시 할인 불가) / T 플러스포인트를 이용해서 결제하실 수 없습니다. / 본인: 이용권 금액의 20% 할인 / 결제 전 직원에게 T 멤버십 카드 제시 / 타 쿠폰, 타 행사, 타 제휴카드 중복 사용 불가 / 36개월 미만 무료입장(증빙서류 지참 시) / 외부 음료 반입 불가 / 반려동물 입장 불가(안내견 제외) / 월 1회 휴관(신세계백화점 동대구점 휴관일과 동일)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5192",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -616,7 +616,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -630,11 +630,11 @@
         "SKT": null,
         "KT": {
           "tiers": {
-            "전등급": "[글로벌 혜택]공항 라운지 1만원 할인 [상시]전 세계 공항라운지 이용권 30% 할인"
+            "전등급": "전 세계 공항라운지 이용권 30% 할인"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -661,7 +661,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드를 키오스크에 스캔하거나 매장 직원에게 보여 주면 할인을 받으실 수 있습니다. / 키오스크 이용 방법: 키오스크 화면 &gt; 메뉴 선택 &gt; 메뉴 확인 및 결제하기 &gt; 'T 멤버십' 선택 &gt; 일회용 바코드 스캔 &gt; 결제 수단 선택 및 결제 / '일회용 바코드'는 기존 T 멤버십 카드번호가 아닌, 20분 단위로 변경되는 이 혜택의 전용 바코드를 의미합니다. / 횟수 제한: 1일 1회 / 최대 할인 금액: 1일 최대 10,000원 / 최대 적립 금액: 1일 최대 10,000P / 이 혜택은 키오스크 또는 카운터에서 주문할 때만 이용하실 수 있습니다.(더벤티 앱 주문 시 이용 불가) / 캡처한 일회용 바코드 이미지로는 혜택을 받으실 수 없습니다. / 모든 메뉴에 혜택이 적용됩니다.(단, 디저트/병 음료/MD/행사 메뉴 등 일부 메뉴 적용 불가) / 혜택 적용 시 더벤티 앱 멤버십 적립 및 앱 쿠폰을 중복으로 사용하실 수 없습니다. / 모바일 상품권(금액권/제품권) 및 더벤티 앱 멤버십 스탬프와 함께 사용하실 수 있습니다. 단, 그 외 제휴 할인은 함께 사용하실 수 없습니다. / 기타 결제 수단과 중복으로 할인받으실 수 있습니다. / 할인 및 T 플러스포인트 사용 금액 대한 현금 영수증은 발급받으실 수 없습니다. / 멤버십 혜택은 매장 영업 시간 안에 이용하실 수 있습니다.(영업 시간은 매장마다 다를 수 있습니다.) / 일부 매장에서는 혜택을 이용하실 수 없습니다.(휴게소, 역사, 샵인샵, 특수 매장 등) / 환불과 관련된 사항은 더벤티 규정을 따릅니다. / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제 다음 날 사용 가능 포인트로 전환됩니다. / 문의: 더벤티 고객센터(1644-0513, 평일 오전 9시~오후 6시, 점심시간 낮 12시 30분~오후 2시, 유료) 또는 더벤티 홈페이지",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5408",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -684,7 +684,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -709,7 +709,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 T 멤버십 앱의 일회용 바코드를 매장 직원에게 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 일회용 바코드는 매장 영업시간에 이용하실 수 있으며 결제 전 매장 직원에게 일회용 바코드를 보여주시기 바랍니다. / 매장별 영업시간은 던킨 공식 홈페이지 참고 및 매장에 문의해 주시기 바랍니다. ▶ 던킨 매장 확인하기 >> ▶ 던킨 매장 확인하기 >> ▶ 던킨 매장 확인하기 >> / 횟수 제한 : 1일 1회 할인 또는 적립 * 최대 할인 가능: 일 최대 VIP/GOLD 30,000원, SILVER 10,000원 * 최대 적립 가능: 일 최대 VIP/GOLD 30,000P, SILVER 10,000P * 포인트 사용: T 플러스포인트는 보유하신 한도 내에서 횟수 제한 없이 사용 가능 / 혜택 금액의 원 단위는 절사하여 제공 / 이 혜택은 매장에 방문 시 이용하실 수 있습니다.(모바일 주문 및 배달 앱에서는 혜택을 이용하실 수 없습니다.) / 이 혜택은 T 멤버십 내 다른 던킨 혜택과 같은 날에 이용하실 수 있습니다. 단, 결제 1건당 1개의 혜택만 받으실 수 있습니다. / 총 결제 금액의 0.1%를 해피포인트로 적립하실 수 있으며, 해피포인트플러스 결제 시 결제 금액의 5%를 해피포인트로 적립 하실 수 있습니다.(단, 할인/적립/포인트 사용 금액은 제외됩니다.) / 이 혜택은 던킨 내 다른 쿠폰/이벤트/제휴 할인과 중복으로 적용하실 수 없습니다. / 모바일 교환권을 사용하실 수 있습니다.(단, 할인된 금액으로 구매한 모바일 교환권은 사용하실 수 없습니다.) / T 플러스포인트를 사용해 결제하실 수 있습니다. T 플러스포인트는 보유한 한도 안에서 횟수 제한 없이 사용하실 수 있으며, 최소 사용 단위는 10P입니다. / 적립된 T 플러스포인트는 ‘적립 예정’ 포인트로 표시되며, 결제한 다음 날부터 사용 가능 포인트로 전환됩니다. / 할인 금액 및 사용 포인트에 대해 현금 영수증이 발급되지 않습니다. / 캡처한 바코드 이미지는 사용하실 수 없습니다. / 환불과 관련된 사항은 던킨 규정을 따릅니다. / 매장별 영업 시간이 다르므로 방문 전 매장에 문의해 주시기 바랍니다. / 던킨 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 방문 전 던킨 홈페이지에서 이벤트 참여 매장을 꼭 확인하고 이용해 주시기 바랍니다. ▶ 던킨 이벤트 참여 매장 확인하기 >> ▶ 던킨 이벤트 참여 매장 확인하기 >> ▶ 던킨 이벤트 참여 매장 확인하기 >> / 던킨 고객센터(080-555-3131, 평일 오전 9시~오후 5시, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=992",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -718,7 +718,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -738,7 +738,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -757,7 +757,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -775,7 +775,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -801,11 +801,11 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 T 멤버십 App 내 일회용 바코드 번호를 도미노피자 Web/App에 입력해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 1일 1회 할인 또는 적립, 사용 제한 없음 (단, 오프라인 채널 이용시 포인트 사용 불가) / 최대 할인 가능: 일 최대 VIP 60,000원, Gold/Silver 40,000원 할인 / 최대 적립 가능: 일 최대 VIP 60,000P, Gold/Silver 40,000P 적립 / 적립된 포인트는 '적립 예정' 포인트로 표시되며, 결제일로부터 5일 이후, 사용 가능 포인트로 전환됩니다. (단,도미노피자 온라인 채널에서만 포인트 사용이 가능) / 전국 450여개 매장에서 할인 또는 적립(세트메뉴 제외) / 기타 쿠폰, 적립 및 할인 등 다른 혜택과 중복적용 불가 / 특가제품(세트메뉴, 사이드디시 반값, 사이드디시 천원 딜 등)은 혜택 적용 불가 / 일부 리조트/휴게소 입점 가맹점은 제외 (잠실야구장점/알펜시아점/대명비발디파크점/롯데월드점) / 온라인 주문 후 취소할 경우, 매시 정각과 30분에 취소가 반영되므로 주문취소 후 재주문 시에는 약 30분 이내의 시간이 소요됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=14",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
-            "전등급": "[생일혜택] 생일파티세트 25% 할인",
+            "전등급": "[달.달.혜택] 50% 할인 (방문 포장 / 25,000원 이상 주문 시 / 최대 22,500원 할인)[생일혜택] 생일파티세트 25% 할인",
             "VVIP": "[VVIP초이스] 2만원 할인(3만원 이상 주문 시) [상시] 20% 할인",
             "VIP": "[상시] 20% 할인",
             "Gold": "[상시] 15% 할인",
@@ -813,7 +813,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -823,7 +823,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -847,7 +847,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여주시면 할인을 받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 이용 후 직원에게 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다. / 혜택은 당일 결제 건에 한하여 적용되며, 다른 날의 결제 건 취소 후 다시 결제하실 수 없습니다. / 혜택을 이용하지 않고 결제하신 경우, 결제 취소 후 혜택 적용하여 다시 결제하실 수 없습니다. / 이 혜택은 결제 건에 따라 1회 적용이 가능합니다.(영수증 1개당 1회 적용 가능) / 일 최대 할인 금액은 30,000원입니다. / 매장에서 음료/주류를 포함한 모든 메뉴 주문 시 할인받으실 수 있습니다. / 배달, 포장 주문 시에는 혜택을 이용하실 수 없습니다. / 환불과 관련된 사항은 도원스타일 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 이 혜택은 도원스타일 모든 매장에서 이용하실 수 있습니다. / 이 혜택은 타 쿠폰 및 할인, 적립, 상품권, 프로모션과 중복해 사용하실 수 없습니다. / 도원스타일 고객센터(1577-1469, 평일 오전 9시~오후 6시, 주말 휴무, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5968",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -880,7 +880,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -917,7 +917,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 T 멤버십 App 내 T 멤버십 카드 번호를 드롭탑 App에 입력해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 1일 1회 할인 또는 적립(단, 온라인 채널 이용 시 포인트 사용 불가) / 최대 할인 가능: 일 최대 VIP/GOLD/SILVER 20,000원 할인 / 최대 적립 가능: 일 최대 VIP/GOLD/SILVER 20,000P 적립 / 타 할인/적립 혜택 및 세트할인 중복 적용 불가 / 제조 음료 한정 (병/ 캔/ MD상품/ 아이스탑/ 베이커리 제외) / 특수매장 및 가맹점주 비동의 매장 제외 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5051",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -950,7 +950,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -975,7 +975,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 할인 또는 적립, 사용 제한 없음 (최소구매금액 1천원) / 최대 할인 가능 : 일 최대 VIP/GOLD 30,000원, SILVER 10,000원 할인 / 최대 적립 가능 : 일 최대 VIP/GOLD 30,000P, SILVER 10,000P 적립 / 타 쿠폰 및 할인/적립 등 다른 혜택과 중복적용 불가 / 뚜레쥬르 온라인쇼핑몰 적용 제외 / 일부 특수점포(인천공항, 마트, 병원, 휴게소 등)의 경우 혜택제공 불가 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 다음날부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1084",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -986,7 +986,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -996,7 +996,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1022,18 +1022,18 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 하루 1회 할인 또는 적립 / 최대 할인 금액: 하루 최대 VIP/GOLD 20,000원, SILVER 10,000원 / 최대 적립 금액: 하루 최대 VIP/GOLD 20,000P, SILVER 10,000P / 결제 전 라그릴리아 매장 직원에게 T 멤버십 카드를 보여 주시기 바랍니다. / 주류 또는 세트/행사 등의 할인 메뉴는 혜택 대상에서 제외됩니다. / 적립된 T 플러스포인트는 ‘적립 예정’ 포인트로 표시되며, 결제한 다음 날부터 사용하실 수 있습니다. / 이 혜택은 다른 쿠폰 및 제휴 할인 혜택과 중복으로 적용되지 않습니다. / 혜택 제외 매장: 라그릴리아 공항점 / 문의: 라그릴리아 고객상담실(080-731-2027, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=124",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
-            "VVIP": "10% 할인",
-            "VIP": "10% 할인",
-            "Gold": "10% 할인",
-            "일반": "5% 할인"
+            "VVIP": "10% 할인(최대 2만원 할인)",
+            "VIP": "10% 할인(최대 2만원 할인)",
+            "Gold": "5% 할인(최대 2만원 할인)",
+            "일반": "5% 할인(최대 2만원 할인)"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1041,7 +1041,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1059,7 +1059,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1081,7 +1081,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1118,7 +1118,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. ※ 나이 기준 - 어른(만 19~64세): 정가 38,000원 → 혜택가 본인 22,800원, 동반 1인 26,600원 - 청소년(만 13~18세): 정가 34,000원 → 혜택가 본인 20,400원, 동반 1인 23,800원 - 어린이(36개월~만 12세): 정가 30,000원 → 혜택가 본인 18,000원, 동반 1인 21,000원 / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택은 본인 종일권 1장과 동반인 종일권 최대 3장을 할인받으실 수 있습니다. / 로봇랜드 이용 시 각 시설물에 붙어 있는 안내문과 이용 제한 사항을 확인해 주시기 바랍니다. / 36개월 미만 영유아는 주민등록등본 등 증빙 서류를 보여 주시면 무료 입장할 수 있습니다. / 만 65세 이상 고객님과 임산부는 증빙 서류를 보여 주시면 할인이 적용된 12,000원으로 이용하실 수 있습니다. / 장애인 및 국가유공자는 증빙 서류를 보여 주시면 50% 할인이 적용됩니다. / 티켓 구매는 폐장 1시간 전까지만 가능합니다. / 코인 이용 시설, 게임 시설, 일부 편의 시설 등은 따로 요금을 내셔야 이용하실 수 있습니다. / 이 혜택을 이용하면 제휴 카드 할인을 받으실 수 없습니다. / 환불과 관련된 사항은 로봇랜드 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 로봇랜드 종합안내실(055-214-6000, 평일 오전 10시~오후 5시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5802",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -1138,7 +1138,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1146,7 +1146,7 @@
           },
           "conditions": "제주지점에 한해서만 기간별 별도 할인 적용",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1164,7 +1164,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1172,7 +1172,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1197,27 +1197,15 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 직원에게 제시 또는 키오스크에 입력해야 합니다. / T 플러스포인트를 사용하기 위해서는 반드시 일회용 바코드를 직원에게 제시해야 10P 단위로 사용이 가능합니다.(키오스크에서는 100P 단위로 포인트 사용 가능) / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / T 멤버십 혜택은 대상 제품에 한하며, 제휴사의 사정에 따라 변경 가능합니다.(이용 전 T 멤버십 홈페이지 참고) / 대상 상품 : 한우불고기 세트, 빅불 세트, 핫크리스피버거 세트, 새우버거 세트, 데리버거 세트 / 횟수 제한 : - 할인 : 1일 1회 가능 - 적립 : 1일 1회 가능 - 사용 : 횟수 제한 없음 / 최대 할인 가능 : 일 최대 30,000원 할인 / 최대 적립 가능 : 일 최대 30,000P 적립 / 정상 판매가 기준 할인/적립 제공 (디저트/토핑 추가, 음료/버터번 변경 등 추가 금액 할인/적립 제외) / 특수 매장(공항, 야구장, 고속도로 휴게소, 리조트, 몰 등) 및 일부 점포 적용 제외 / 기타 쿠폰 및 타 행사와 중복 적용 불가 / 매장에서 주문하시는 경우에만 할인 또는 적립 혜택을 받으실 수 있습니다.(배달 및 매장 픽업 서비스 제외) / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 다음날부터 사용 가능 포인트로 전환됩니다",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1094",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
-        "KT": null,
-        "LGU": null
-      }
-    },
-    {
-      "brand": "롯데마트&슈퍼",
-      "aliases": [],
-      "category": "KT-쇼핑",
-      "status": "needs_review",
-      "statusReason": "카테고리 '쇼핑' 또는 브랜드명 기준으로 오프라인 매장 여부 확인 필요",
-      "carriers": {
-        "SKT": null,
         "KT": {
           "tiers": {
-            "전등급": "[달.달.혜택] 롯데마트/슈퍼 5천원 할인권"
+            "전등급": "[달.달.혜택] 1인팩 or 2인팩 40% 할인"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1234,12 +1222,12 @@
           "tiers": {
             "VVIP": "(온) 제휴쿠폰, 등급 UP (오프) 선불카드, 등급 UP",
             "VIP": "(온) 제휴쿠폰, 등급 UP (오프) 선불카드, 등급 UP",
-            "Gold": "(온) 제휴쿠폰, 등급 UP (오프) 선불카드, 등급 UP",
+            "Gold": "(온) 제휴쿠폰 (오프) 선불카드, 등급 UP",
             "일반": "(온) 제휴쿠폰 (오프) 선불카드, 등급 UP"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1258,7 +1246,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1278,7 +1266,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1297,7 +1285,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1316,7 +1304,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1336,7 +1324,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1361,7 +1349,7 @@
           },
           "conditions": "온라인: 서울스카이 웹 로그인(회원이 아닌 경우 회원가입 필요) &gt; 우측 상단의 '예매하기' 선택 &gt; 혜택필터의 '통신사 멤버십'에서 'SKT' 선택 &gt; 방문일, 인원, 권종 선택 &gt; SKT 제휴 할인 인증 후 결제 &gt; 휴대폰으로 받은 웹 티켓 QR 코드로 바로 입장 / 오프라인: 매표소 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드 제시 * 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 현장 매표소에서 할인형, 적립형 고객님 모두 할인 혜택을 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다.(본인 포함 최대 4명) / 입장권 혜택은 일반 티켓에 한함 (Fast Pass 제외) / T 플러스포인트를 함께 사용하실 수 없습니다. / 36개월 미만 유아는 무료로 입장할 수 있습니다. 입장 시 직계 가족을 증명하는 서류(가족관계증명서, 건강 보험증, 주민등록등본 등)를 보여 주시기 바랍니다. / 다른 카드 할인과 우대 혜택 동시 이용 불가합니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5037",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -1382,7 +1370,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1406,7 +1394,7 @@
           },
           "conditions": "온라인: 롯데월드 아쿠아리움 웹 로그인(회원이 아닌 경우 회원가입 필요) &gt; 우측 상단의 '예매하기' 선택 &gt; 혜택필터의 '통신사 멤버십'에서 'SKT' 선택 &gt; 방문일, 인원, 권종 선택 &gt; SKT 제휴 할인 인증 후 결제 &gt; 휴대폰으로 받은 웹 티켓 QR 코드로 바로 입장 / 오프라인: 매표소 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드 제시 * 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 현장 매표소에서 할인형, 적립형 고객님 모두 할인 혜택을 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다.(본인 포함 최대 4명) / T 플러스포인트를 함께 사용하실 수 없습니다. / 다른 카드 할인, 우대 혜택과 중복으로 적용되지 않습니다. / 36개월 미만 유아는 무료로 입장할 수 있습니다. 입장 시 직계 가족을 증명하는 서류(가족관계증명서, 건강 보험증, 주민등록등본 등)를 보여 주시기 바랍니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=73",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -1414,7 +1402,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1422,7 +1410,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1446,15 +1434,15 @@
           },
           "conditions": "온라인: 롯데월드 어드벤처 앱/웹 로그인(회원이 아닌 경우 회원가입 필요) &gt; 우측 상단의 '예매하기' 선택 &gt; 혜택필터의 '통신사 멤버십'에서 'SKT' 선택 &gt; 방문일, 인원, 권종 선택 &gt; SKT 제휴 할인 인증 후 결제 &gt; 휴대폰으로 받은 웹 티켓 QR 코드로 바로 입장 / 오프라인: 매표소 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드 제시 * 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 현장 매표소에서 할인형, 적립형 고객님 모두 할인 혜택을 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다.(본인 포함 최대 4명) / T 플러스포인트를 함께 사용하실 수 없습니다. / 다른 카드 할인, 우대 혜택과 중복으로 적용되지 않습니다. / 36개월 미만 유아는 무료로 입장할 수 있습니다. 입장 시 직계 가족을 증명하는 서류(가족관계증명서, 건강 보험증, 주민등록등본 등)를 보여 주시기 바랍니다. / 롯데월드 어드벤처 부산에서는 이용하실 수 없습니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=996",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
-            "전등급": "본인 40% 및 동반 3인 30% 할인"
+            "전등급": "[달.달.혜택] 본인 50% 및 동반 3인 30% 할인 [상시]본인 40% 및 동반 3인 30% 할인"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1462,7 +1450,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1486,7 +1474,7 @@
           },
           "conditions": "온라인: 롯데월드 어드벤처 부산 앱/웹 로그인(회원이 아닌 경우 회원가입 필요) &gt; 우측 상단의 '예매하기' 선택 &gt; 혜택필터의 '통신사 멤버십'에서 'SKT' 선택 &gt; 방문일, 인원, 권종 선택 &gt; SKT 제휴 할인 인증 후 결제 &gt; 휴대폰으로 받은 웹 티켓 QR 코드로 바로 입장 / 오프라인: 매표소 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드 제시 * 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 현장 매표소에서 할인형, 적립형 고객님 모두 할인 혜택을 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다.(본인 포함 최대 4명) / T 플러스포인트를 함께 사용하실 수 없습니다. / 다른 카드 할인, 우대 혜택과 중복으로 적용되지 않습니다. / 36개월 미만 유아는 무료로 입장할 수 있습니다. 입장 시 직계 가족을 증명하는 서류(가족관계증명서, 건강 보험증, 주민등록등본 등)를 보여 주시기 바랍니다. / 롯데월드 어드벤처 서울에서는 혜택을 이용하실 수 없습니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5325",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -1495,34 +1483,8 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
-      }
-    },
-    {
-      "brand": "루덴시아",
-      "aliases": [],
-      "category": "테마파크",
-      "status": "included",
-      "statusReason": null,
-      "carriers": {
-        "SKT": {
-          "tiers": {
-            "VIP": "입장권 최대 50% 할인",
-            "GOLD": "입장권 최대 50% 할인",
-            "SILVER": "입장권 최대 50% 할인"
-          },
-          "tiersEarn": {
-            "VIP": "입장권 최대 50% 할인",
-            "GOLD": "입장권 최대 50% 할인",
-            "SILVER": "입장권 최대 50% 할인"
-          },
-          "conditions": "루덴시아 입장권 평일 50%, 주말 35% 할인 ① 입장권(대인) - 주중: 정가 27,000원 → 혜택가 13,500원 - 주말: 정가 27,000원 → 혜택가 17,550원 ② 입장권(소인) - 주중: 정가 18,000원 → 혜택가 9,000원 - 주말: 정가 18,000원 → 혜택가 11,700원 / 쿠폰 다운로드 및 확인 방법 ① T 멤버십 앱: 혜택 브랜드 &gt; 루덴시아 테마파크 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 루덴시아 방문 &gt; 매표소 직원에게 쿠폰 제시 / 이 쿠폰은 T 멤버십 카드당 하루 1장 다운로드하실 수 있습니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라지며 복원되지 않습니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 이 쿠폰은 다른 제휴 이벤트/쿠폰/할인 혜택과 중복으로 적용되지 않습니다. / 이 쿠폰을 사용하면 포인트를 적립하거나 제휴 카드 할인을 받으실 수 없습니다. / 환불과 관련된 사항은 루덴시아 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 루덴시아 고객센터(0507-1359-1025, 오전 10시~오후 6시 , 유료) / 할인율은 성수기 등 운영 상황에 따라 변동될 수 있습니다.",
-          "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5994",
-          "collectedAt": "2026-09-30"
-        },
-        "KT": null,
-        "LGU": null
       }
     },
     {
@@ -1545,7 +1507,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 르 스페이스 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 매장 방문 &gt; 매표소 직원에게 쿠폰 제시 / T 멤버십 할인형/적립형 고객님 모두 이용하실 수 있습니다.(단, T 우주 LITE 고객님은 이용하실 수 없습니다.) / 이 쿠폰은 르 스페이스 전시장에서만 사용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 월 1장 다운로드하실 수 있습니다. / 고객님 본인 및 동반 1인까지 혜택을 이용하실 수 있습니다. / 이 쿠폰을 사용하면 아래와 같이 입장권을 할인받으실 수 있습니다. · 대인: 정가 28,000원 → 할인가 21,000원 · 소인(36개월~13세): 정가 20,000원 → 할인가 15,000원 / 르 스페이스는 전체관람가입니다. 만 3세 미만 영유아는 주민등록등본 등 증빙 서류를 보여 주시면 무료 입장할 수 있습니다. / 르 스페이스 입장 마감 시간은 오후 7시 30분입니다. 자세한 내용은 홈페이지를 참고해 주시기 바랍니다. / 르 스페이스 안에서는 음식물을 드실 수 없습니다. / 다운로드한 쿠폰을 상품권/현금으로 교환하거나 다른 사람에게 넘겨줄 수 없습니다. / 유효 기간이 지난 쿠폰을 사용하거나 다시 발급받으실 수 없습니다. / 쿠폰 캡처 이미지는 사용하실 수 없습니다. / 이 쿠폰은 다른 쿠폰과 함께 사용하실 수 없습니다. / 이 쿠폰을 사용하면 포인트를 적립하거나 제휴 카드 할인을 받으실 수 없습니다. / 환불과 관련된 사항은 르 스페이스 규정을 따릅니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / T 플러스포인트를 사용해 결제하실 수 없습니다. / 문의: 르 스페이스 고객센터(1533-3660, 오전 10시~오후 9시, 연중무휴, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5957",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -1566,7 +1528,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1596,7 +1558,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1615,7 +1577,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1653,18 +1615,18 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인 또는 적립을 받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 횟수 제한: 1일 1회 할인 또는 적립, T 플러스포인트 사용 횟수 제한 없음(할인 또는 적립은 매장에 방문한 일행당 1회 받으실 수 있습니다.) - 최대 할인 금액: 일 최대 VIP/GOLD 15,000원, SILVER 5,000원 - 최대 적립 금액: 일 최대 VIP/GOLD 15,000P, SILVER 5,000P - 혜택금액의 원단위는 절사하여 제공됩니다. / 적립된 T 플러스포인트는 '적립 예정' 포인트로 표시되며, 결제일로부터 1일 이후부터 사용 가능 포인트로 전환됩니다. / 매장에서 모든 메뉴 주문 시 할인 또는 적립 받으실 수 있습니다. / 결제 금액 기준 100,000원 한도 안에서 할인 또는 적립 받으실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 있습니다. / 포장 주문 시에도 혜택을 이용하실 수 있습니다.(단, 배달 주문하는 경우에는 혜택이 적용되지 않습니다.) / 다른 프로모션, 신용카드 제휴 혜택 등과 중복으로 이용하실 수 없습니다. / 매드포갈릭 고객센터(02-2286-8800, 평일 오전 10시~오후 5시, 점심시간 낮 12시~오후 1시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5461",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
             "VVIP": "15% 할인(주문금액 10만원 한도)",
             "VIP": "15% 할인(주문금액 10만원 한도)",
-            "Gold": "15% 할인(주문금액 10만원 한도)",
+            "Gold": "5% 할인 (주문금액 10만원 한도)",
             "일반": "5% 할인 (주문금액 10만원 한도)"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1674,7 +1636,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1710,7 +1672,7 @@
           },
           "conditions": "T 멤버십 앱에서 예매 시 혜택을 받으실 수 있습니다. / 예매 정가에 따라 최대 4,000원 할인받으실 수 있습니다. * 11,000원권은 1,000원 할인/12,000원권은 2,000원 할인/13,000원권은 3,000원 할인/14,000원 이상은 4,000원 할인 / 하루 1회 예매하실 수 있습니다. / 1회에 최대 5개 좌석을 예매하실 수 있습니다. / 예매 취소는 취소 가능 시간 안에 T 멤버십 앱 ‘무비’ 에서만 하실 수 있습니다.(영화관 현장에서 취소 안 됨) / T 멤버십 혜택으로 예매하실 수 있는 좌석은 영화관 홈페이지와 다를 수 있습니다. / 일부 상영 시간은 영화관 요청에 따라 표기되지 않을 수 있습니다. / T 플러스포인트를 사용하실 수 없습니다. / 일부 영화는 배급사 및 극장사의 요청으로 예매가 제한될 수 있습니다. / 메가박스 고객센터(1544-0070, 평일 오전 10시~오후 7시) / 메가박스 홈페이지(https://www.megabox.co.kr/)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=968",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -1718,7 +1680,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1745,7 +1707,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 키오스크에 스캔하거나 매장 직원에게 보여 주세요.(일회용 바코드는 20분마다 바뀝니다.) ① 키오스크 주문 시: 메뉴 선택 &gt; 옵션 선택 &gt; [결제하기] &gt; [먹고 가기] 또는 [포장하기] 선택 &gt; 결제 수단 선택 &gt; 제휴 할인에서 'T 멤버십' 선택 &gt; 일회용 바코드 스캔 &gt; 결제 ② 카운터 주문 시: 결제 전 매장 직원에게 일회용 바코드 제시 / 횟수 제한: 할인/적립 구분 없이 월 4회 / 구매 한도: 1일 최대 10,000원(최대 할인/적립 2,000원/P) / 모든 메뉴 주문 시 이 혜택을 이용하실 수 있습니다.(단, 행사 메뉴 제외) / 이 혜택 이용 시 메가MGC커피 멤버십 스탬프는 적립하실 수 없습니다. / 이 혜택은 키오스크 또는 카운터에서 주문할 때만 이용하실 수 있습니다.(메가MGC커피 앱 주문 시 이용할 수 없음) / 할인 금액에 대한 현금 영수증은 발급받으실 수 없습니다. / 모바일 상품권(금액권/제품권) 및 메가MGC커피 멤버십 스탬프와 함께 사용하실 수 있습니다. 단, 그 외 제휴 할인은 함께 사용하실 수 없습니다. / 메가MGC커피 사정에 따라 일부 특수 매장(휴게소, 마트, 테마파크, 병원, 공항 등)에서는 혜택을 이용하실 수 없습니다. / 적립된 포인트는 '적립 예정' 포인트로 표시되며, 결제 다음 날 사용 가능 포인트로 전환됩니다. / 문의: 메가MGC커피 고객센터(1588-8298, 평일 오전 9시~오후 6시, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5393",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -1755,7 +1717,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1780,7 +1742,7 @@
           },
           "conditions": "쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 멕시카나에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - 다운로드한 쿠폰은 MY &gt; 쿠폰함에서 확인 가능합니다. / 쿠폰은 멕시카나 앱에서 결제 시 사용하실 수 있습니다. ▶ 멕시카나 앱 바로 가기 &gt;&gt; ▶ 멕시카나 앱 바로 가기 &gt;&gt; / 쿠폰 등록 및 사용 방법: 멕시카나 앱 &gt; 오른쪽 위 MY 멕시카나 &gt; 쿠폰 &gt; 쿠폰 코드 입력 및 등록 &gt; 주문할 매장 선택 &gt; 메뉴 선택 &gt; 결제 수단 선택(온라인 선결제 시 쿠폰을 사용하실 수 있습니다.) &gt; 쿠폰 선택 후 적용하기 선택 &gt; 결제하기 / 이 혜택은 월 1인당 2회 이용하실 수 있습니다.(쿠폰 2장 동시 사용 안 됨) / 쿠폰은 매장 영업 시간에만 사용하실 수 있습니다. / 치킨 메뉴 포함 17,000원 이상 구매 시 쿠폰을 사용하실 수 있습니다. / 다른 쿠폰 및 이벤트, 제휴 할인과 중복으로 적용되지 않습니다.(종이 상품권, 모바일 상품권(금액권/제품권), 할인 쿠폰, 기타 쿠폰과 함께 사용할 수 없음) / 쿠폰 사용 시 T 플러스포인트를 사용하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 매장 상황 및 거리에 따라 배달이 어려울 수 있으며, 추가 배달 요금(후불)이 발생할 수 있습니다.(배달 요금은 지역에 따라 다르게 적용)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5216",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -1801,7 +1763,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1819,7 +1781,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -1839,7 +1801,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1863,7 +1825,7 @@
           },
           "conditions": "쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 뮤지엄 원에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - 다운로드한 쿠폰은 MY &gt; 쿠폰함에서 확인 가능합니다. / 직원에게 쿠폰을 보여 주면 할인 혜택을 받으실 수 있습니다.(본인 포함 총 4명) / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 이 쿠폰은 현장 결제 시에만 사용하실 수 있습니다.(온라인 구매의 경우 할인받으실 수 없습니다.) / 이 쿠폰은 T 멤버십 카드당 매달 1회 다운로드하실 수 있습니다. / 쿠폰은 발급받은 달의 마지막 날까지 사용하실 수 있습니다. / 이 쿠폰은 전시 관람 시 사용하실 수 있습니다. / 이 쿠폰은 T 플러스포인트와 함께 쓰실 수 없습니다. / 이 쿠폰은 다른 할인 및 혜택과 중복으로 적용되지 않습니다. / 성인 정가 18,000원 &gt; T 멤버십 할인 적용가 12,000원 / 청소년(14~19세) 정가 15,000원 &gt; T 멤버십 할인 적용가 10,000원 / 어린이(36개월 이상~13세) 정가 13,000원 &gt; T 멤버십 할인 적용가 9,000원 / 작품은 만지지 마시고 눈으로만 관람해 주시기 바랍니다. / 아이들이 미술관 에티켓을 지킬 수 있도록 지도해 주시기 바랍니다. / 유리로 된 바닥이 미끄러울 수 있으니 주의해 주시기 바랍니다. / 바닥이 거울로 꾸며진 공간이 있습니다. 치마를 입으신 경우 주의해 주시기 바랍니다. / 뮤지엄 원은 전시 관람 중 관람객의 부주의와 안내 내용을 지키지 않아 일어난 사고에 대해 책임지지 않습니다. 또한 작품 파손 시 손해 배상을 청구합니다. / 평일: 오전 10시~오후 7시 / 주말/공휴일: 오전 10시~오후 8시 * 마감 1시간 전까지 입장하실 수 있습니다. / 뮤지엄원 고객센터(051-731-3302)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5416",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -1872,7 +1834,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1891,7 +1853,7 @@
           },
           "conditions": "최초 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1912,7 +1874,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1931,7 +1893,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -1957,7 +1919,7 @@
           },
           "conditions": "T 멤버십 할인 또는 적립 혜택을 받기 위해서는 T 멤버십 앱에 있는 일회용 바코드를 미스터피자 앱에 입력하거나 매장 직원에게 보여 주셔야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 매장 이용 시간: 오전 11시~오후 10시 * 일부 매장은 영업 시간이 다를 수 있습니다. 확인 후 이용해 주시기 바랍니다. * 미스터피자 매장 찾기 바로가기 &gt;&gt; * 미스터피자 매장 찾기 바로가기 &gt;&gt; * 미스터피자 매장 찾기 바로가기 &gt;&gt; ▶ 미스터피자 앱 다운로드(Android) &gt;&gt; ▶ 미스터피자 앱 다운로드(iOS) &gt;&gt; / 온라인 앱에서 T 멤버십 혜택 이용 시 할인형 고객님은 할인 혜택, 적립형 고객님은 적립 혜택을 받으실 수 있습니다.(포인트 사용 가능(100%, 10P 단위) / 온라인 앱에서 T 멤버십 혜택 이용 시 미스터피자 앱 회원가입 후 이용 가능합니다.(회원이 아닌 경우 혜택 이용에 제한이 있을 수 있습니다.) / 온라인 주문 시 미스터피자 앱을 통하여 혜택을 받으실 수 있습니다.(타 배달 앱 이용 시 혜택이 적용되지 않습니다.) / 미스터피자 앱 이용 시 본인 명의의 T 멤버십 아이디로 가입된 미스터피자 계정으로 주문해야 혜택이 적용됩니다. / 모든 제품 주문 시 할인/적립 혜택을 받으실 수 있습니다.(단, 1인용 피자/특가 세트/이벤트 상품 제외) / 결제 금액이 19,900원 이상이면 배달을 이용하실 수 있습니다. (단, 배달비와 샐러드 메뉴를 제외하고 할인/적립 혜택 적용 후 결제 금액 기준) / 이 혜택은 T 멤버십 카드당 1일 1회 이용하실 수 있습니다. / 일 최대 할인 금액은 VIP등급 60,000원, GOLD/SILVER등급 40,000원 입니다. / 일 최대 적립 금액은 VIP등급 60,000P, GOLD/SILVER등급 40,000P 입니다. / 적립된 T 플러스포인트는 '적립 예정' 포인트로 표시되며, 결제일 기준 5일 후에 사용하실 수 있습니다. / T 플러스포인트를 사용하실 수 있으며 사용 횟수에는 제한이 없습니다. / 다른 쿠폰/할인/적립 혜택과 중복으로 적용되지 않습니다. / 환불과 관련된 사항은 미스터피자 규정을 따릅니다. (주문 취소 및 환불 건은 매장 또는 미스터피자 고객센터로 전화해 주시기 바랍니다.) / 제휴사 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 방문 전 혜택 유의 사항과 알림 내용을 꼭 확인하고 이용해 주시기 바랍니다. * 제외 매장: 잠실야구장점, 오크밸리점, 롯데부여리조트점, 하이원리조트점, 속리산점, 아일랜드캐슬점, 모나용평점 / 문의: 미스터피자 고객센터(080-001-1100, 평일 오전 10시~오후 5시, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5497",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -1968,7 +1930,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -1978,7 +1940,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2003,7 +1965,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 할인/적립 횟수 : 1일 1회 / 포인트 사용 횟수 : 제한 없음 / 일 최대 할인 가능 : 16,000원 / 일 최대 적립 가능 : 16,000P / 타 쿠폰, 타 행사, 타 제휴카드 중복 사용 불가 / 타 할인, 적립 서비스와 중복 불가 / 제휴 혜택 제외 매장 - 경희대점, 분당정자역점, 수원월드컵스포츠센터점, 부천시청점, 롯데시네마 서청주점 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1093",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2011,7 +1973,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2031,7 +1993,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2050,7 +2012,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2058,7 +2020,7 @@
           },
           "conditions": "가정당 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2077,7 +2039,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2096,7 +2058,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2115,7 +2077,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2139,7 +2101,7 @@
           },
           "conditions": "T 멤버십 앱에 있는 일회용 바코드를 반올림피자 홈페이지/앱에 입력하면 T 멤버십 할인 또는 적립 혜택을 받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이용 시간: 오전 11시~오후 11시(일부 매장은 다를 수 있습니다.) / 반올림피자 오프라인 매장에서는 혜택을 받으실 수 없습니다. / 이 혜택은 반올림피자 홈페이지 회원가입 후 이용하실 수 있습니다. / 배달 앱을 이용하는 경우 혜택이 적용되지 않습니다. / 모든 제품 주문 시 할인/적립 혜택을 받으실 수 있습니다.(단, 세트 메뉴, 사이드 제품 등에는 혜택이 적용되지 않습니다.) / 횟수 제한: 하루 1회 할인 또는 적립, T 플러스포인트 사용 횟수는 제한 없음 / 최대 할인 금액: VIP/GOLD/SILVER 하루 최대 30,000원(배달비를 제외한 결제 금액 최대 15만 원 기준) / 최대 적립 금액: VIP/GOLD/SILVER 하루 최대 30,000P(배달비를 제외한 결제 금액 최대 15만 원 기준) / 적립된 T 플러스포인트는 '적립 예정' 포인트로 표시되며, 결제일 기준 5일 후에 사용하실 수 있습니다.(단, T 플러스포인트는 반올림피자 온라인 채널에서만 사용하실 수 있습니다.) / 다른 쿠폰/할인/적립 혜택과 중복으로 적용되지 않습니다. / 일부 특수 매장에서는 혜택을 이용하실 수 없습니다. * 특수 매장: 충남해미점, K-2점 / 주문 취소는 매장 또는 온라인 주문 고객센터로 전화해 주시기 바랍니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5543",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2147,7 +2109,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2155,27 +2117,8 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
-      }
-    },
-    {
-      "brand": "배달의민족",
-      "aliases": [],
-      "category": "KT-푸드",
-      "status": "needs_review",
-      "statusReason": "카테고리 '푸드' 또는 브랜드명 기준으로 오프라인 매장 여부 확인 필요",
-      "carriers": {
-        "SKT": null,
-        "KT": {
-          "tiers": {
-            "전등급": "[달.달.혜택] 배민XBHC 최대 1만원 할인(7천원 할인＋휴대폰 결제 3천원 할인, 1.8만원 이상 주문 시)"
-          },
-          "conditions": "",
-          "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
-        },
-        "LGU": null
       }
     },
     {
@@ -2198,7 +2141,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드를 매장 직원에게 보여 주거나 키오스크(해피스테이션)에서 사용하실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. * 키오스크(해피스테이션) 이용 방법: 키오스크 화면 누르기 &gt; 싱글레귤러 선택 &gt; 카드 결제/일반 결제 선택 &gt; 할인/적립 단계에서 'T 멤버십' 선택 &gt; T 멤버십 일회용 바코드 스캔 &gt; 남은 금액 확인 후 결제 * 결제 전 MD(굿즈) 선택 단계에서 '선택 안 함'을 눌러야 T 멤버십 혜택을 받으실 수 있습니다. / 혜택 대상 상품: 싱글레귤러 * 콘/컵 및 맛 선택 가능, 별도 포장 불가 / 횟수 제한 (1)할인: 월 1회, 싱글레귤러 1개 (2)적립: 월 1회, 싱글레귤러 1개 (3)포인트 사용: T 플러스포인트는 보유하신 한도 내에서 싱글레귤러 주문 시 횟수/수량 제한 없이 사용 가능 * 최대 할인 가능: VIP 2,000원, GOLD/SILVER 1,200원 할인 * 최대 적립 가능: VIP 2,000P, GOLD/SILVER 1,200P 적립 / 이 혜택은 T 멤버십 내 다른 배스킨라빈스 혜택과 같은 날에 이용하실 수 있습니다. 단, 결제 1건당 1개의 혜택만 받으실 수 있습니다. / 이 혜택은 매장에 방문하여 현장 구매 시 이용하실 수 있습니다.(모바일 주문 및 배달 시 이용하실 수 없습니다.) / 키오스크(해피스테이션)에서도 T 멤버십 혜택을 이용하실 수 있습니다.(결제 단계에서 T 멤버십 선택 후 일회용 바코드를 실행해 주시기 바랍니다.) / 싱글레귤러 맛은 직접 선택하실 수 있습니다. 단, 싱글레귤러 외 다른 상품에는 혜택이 적용되지 않습니다. / 다른 행사 및 쿠폰, 제휴 할인과 중복으로 이용하실 수 없습니다. / 할인/적립/쿠폰 사용 금액을 제외한 결제 금액의 0.1%를 해피포인트로 적립하실 수 있습니다. / 모바일 교환권을 사용해 결제하실 수 있습니다.(단, 할인된 금액으로 구매한 모바일 교환권은 사용하실 수 없습니다.) / 혜택 상품(싱글레귤러)에 한해 T 플러스포인트를 사용하실 수 있으며 최소 사용 단위는 10P입니다. / 적립된 T 플러스포인트는 ‘적립 예정’ 포인트로 표시되며, 결제한 다음 날부터 사용 가능 포인트로 전환됩니다. / 할인 금액 및 사용 포인트는 현금 영수증이 발급되지 않습니다. / 캡처한 바코드 이미지는 사용하실 수 없습니다. / 환불과 관련된 사항은 배스킨라빈스 규정을 따릅니다. / 매장별 영업 시간이 다르므로 방문 전 매장에 문의해 주시기 바랍니다. / 배스킨라빈스 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 방문 전 배스킨라빈스 홈페이지에서 이벤트 참여 매장을 꼭 확인하고 이용해 주시기 바랍니다. ▶ 배스킨라빈스 이벤트 참여 매장 확인하기 &gt;&gt; ▶ 배스킨라빈스 이벤트 참여 매장 확인하기 &gt;&gt; ▶ 배스킨라빈스 이벤트 참여 매장 확인하기 &gt;&gt; / 배스킨라빈스 고객센터: 080-555-3131, 평일 오전 9시~오후 5시, 점심시간 낮 12시~오후 1시, 무료",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=998",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2208,7 +2151,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2216,7 +2159,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2240,7 +2183,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 이용하실 수 있습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; 혜택 브랜드 &gt; 백미당 쿠폰 다운로드 / 쿠폰 확인 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; MY &gt; 쿠폰함 / 쿠폰 사용 방법: 매장 직원에게 쿠폰 제시 * 이 쿠폰은 키오스크에서 사용하실 수 없습니다. * 결제 전 매장 직원에게 T 멤버십 상시 혜택이라고 말씀해 주시기 바랍니다. / 이 쿠폰은 백미당 매장에서만 사용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 월 1장 다운로드하실 수 있습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라집니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 이 쿠폰은 다른 제휴 이벤트/쿠폰/할인 행사 혜택과 함께 사용하실 수 없습니다. / 이 쿠폰은 IFC몰점, 김포공항점, 잠실야구장점에서는 사용하실 수 없습니다. / 환불과 관련된 사항은 백미당 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. ▶ 백미당 홈페이지 바로 가기 &gt;&gt; ▶ 백미당 홈페이지 바로 가기 &gt;&gt; ▶ 백미당 홈페이지 바로 가기 &gt;&gt; / 백미당 고객센터(1833-4672, 평일 오전 9시~오후 5시 30분, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5763",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -2249,27 +2192,8 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
-      }
-    },
-    {
-      "brand": "버거킹",
-      "aliases": [],
-      "category": "KT-푸드",
-      "status": "included",
-      "statusReason": null,
-      "carriers": {
-        "SKT": null,
-        "KT": {
-          "tiers": {
-            "전등급": "[달.달.혜택] 와퍼세트 45% 또는 불고기와퍼 롱치킨버거 2인 메뉴 50% 할인"
-          },
-          "conditions": "",
-          "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
-        },
-        "LGU": null
       }
     },
     {
@@ -2287,7 +2211,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2311,7 +2235,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 보리보리 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 등록 및 사용 방법: 아래 '쿠폰 등록하기' 누르기 &gt; 보리보리 홈페이지/앱 회원가입 또는 로그인 &gt; MY PAGE &gt; 나의 혜택 &gt; 보유 쿠폰 &gt; 쿠폰 번호 입력 후 등록 &gt; 구매 상품 선택 &gt; 결제 페이지에서 '쿠폰 선택' 누르고 쿠폰 적용 &gt; 결제 ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; / 이 쿠폰은 보리보리 홈페이지/앱 회원가입 후 사용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 이 쿠폰은 일부 브랜드/상품에는 사용하실 수 없습니다. / 배송비를 제외하고 20,000원 이상 구매 시 사용하실 수 있으며, 최대 할인 금액은 3,000원입니다. / 이 쿠폰 사용 후 결제를 전체 취소하면 사용 기간 안에 다시 쓰실 수 있습니다.(단, 부분 취소하면 쿠폰을 다시 사용하실 수 없습니다.) / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / T 플러스포인트와 함께 사용하실 수 없습니다. / 보리보리 고객센터(1588-1812, 평일 오전 9시~오후 6시, 주말/공휴일 휴무, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5629",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2319,7 +2243,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2327,7 +2251,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2345,7 +2269,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2365,7 +2289,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2389,7 +2313,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 1일 1회 할인 또는 적립, T 플러스포인트 사용횟수 제한 없음 / 할인 또는 적립 혜택은 본인 외 동반 2인까지 이용하실 수 있습니다. / 최대 할인 가능: 결제 건당 최대 17,400원 / 최대 적립 가능: 결제 건당 최대 17,400P / 타 쿠폰 및 혜택 프로그램과 중복 적용 불가 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5155",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -2415,7 +2339,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드나 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 캡처한 일회용 바코드 이미지로는 혜택을 받으실 수 없습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다. / 모든 메뉴 1,000원 이상 주문 시 할인받으실 수 있습니다. / 최대 할인 가능: 일 최대 VIP/Gold/Silver 20,000원 할인(결제 금액 200,000원 한도) / 다른 쿠폰 및 할인 혜택과 중복으로 이용하실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 일부 매장에서는 혜택을 이용하실 수 없습니다. * 가산디지털단지점, 남서울대점, 선릉역점, 구로역점, 수원역점, 평택해군기지점 / 고객센터: 02-532-6419, 평일 오전 9시~오후 6시, 주말/공휴일 휴무, 유료",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=62",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2423,7 +2347,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2431,7 +2355,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2449,7 +2373,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2469,7 +2393,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2487,7 +2411,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2507,7 +2431,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2531,7 +2455,7 @@
           },
           "conditions": "매장에서 상품 주문 시 직원에게 T 멤버십 카드 또는 T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드 보여 주셔야 할인 혜택을 받으실 수 있습니다. / T 멤버십 앱의 일회용 바코드는 일회용으로 20분마다 변경됩니다. / 캡처한 일회용 바코드 이미지로는 혜택을 받으실 수 없습니다. / 음료 항목에 한하여 T 멤버십 혜택 적용, 단 병음료 제외 / 혜택은 1일 1회 이용하실 수 있습니다. / 다른 쿠폰 및 할인 혜택과 중복으로 이용하실 수 없습니다. / 혜택 이용 시 T 플러스포인트를 사용하실 수 없습니다. / 일부 특수 매장에서는 혜택을 이용하실 수 없습니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1151",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -2551,7 +2475,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2571,7 +2495,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2595,7 +2519,7 @@
           },
           "conditions": "쿠폰 다운로드 방법 - T 멤버십 앱: 로그인 &gt; 혜택 브랜드 &gt; 뽀로로파크에서 쿠폰 다운로드 / 다운로드한 쿠폰 확인 방법 - T 멤버십 앱: 로그인 &gt; T 멤버십 페이지 오른쪽 위 '≡' 선택 &gt; MY &gt; 쿠폰함 / 직원에게 쿠폰을 보여 주면 할인 혜택을 받으실 수 있습니다.(본인 및 동반 1인) / 본인 및 동반인 기준 - 본인 : 대인(14세 이상) - 동반인 : 소인(12개월 이상 ~ 13세), 대인(14세 이상) / T 멤버십 앱에 있는 쿠폰만 사용하실 수 있습니다.(캡처한 쿠폰 이미지 사용할 수 없음) / 이 쿠폰은 현장 결제 시에만 사용하실 수 있습니다.(온라인 구매 시 할인 적용 안 됨) / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 다른 쿠폰/포인트와 중복으로 사용하실 수 없습니다. / 다른 할인 행사/제휴 카드 혜택과 중복으로 적용되지 않습니다. / 일부 매장에서는 혜택을 이용하실 수 없습니다. 아래 혜택 적용 매장을 확인하고 이용해 주시기 바랍니다. / 혜택 적용 매장('25년 7월 1일 기준) * 인천광역시: 뽀로로테마파크 월미도점 * 서울특별시: 뽀로로파크 금천점, 뽀로로파크 영등포점 * 대구광역시: 뽀로로맘앤키즈카페 반야월점 * 경기도: 프리미어 뽀로로테마파크 다산 위드 트래블, 뽀로로파크 일산킨텍스점, 뽀로로맘앤키즈카페 안산점, 뽀로로맘앤키즈카페 양주점 * 경상남도: 뽀로로맘앤키즈카페 거제디큐브점 * 전라북도: 타요키즈카페 익산점 ▶ 뽀로로파크 매장 확인하기 &gt;&gt; ▶ 뽀로로파크 매장 확인하기 &gt;&gt; ▶ 뽀로로파크 매장 확인하기 &gt;&gt;",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5540",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -2604,7 +2528,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2640,7 +2564,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 쿠폰을 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택은 T 멤버십 카드당 1일 1회 이용하실 수 있습니다. / 할인은 테이블당 1회 받으실 수 있습니다. / 일 최대 할인 금액은 VIP/GOLD 등급 15,000원, SILVER 등급 10,000원입니다. / 매장에서 주류를 제외한 모든 메뉴에 사용하실 수 있으며, 주류 제외 10,000원 이상 주문 시 할인받으실 수 있습니다. / 이 혜택은 당일 결제 건에 한하여 적용되며 다른 날의 결제 건 취소 후 다시 결제하실 수 없습니다. / 이 혜택을 이용하지 않고 결제를 하신 경우, 결제 취소 후 혜택을 적용하여 다시 결제 시 혜택이 적용되지 않습니다. / 결제 금액 기준 100,000원 한도 안에서 할인받으실 수 있습니다. / T 플러스포인트를 사용하실 수 없습니다. / 혜택 이용 시 캘리랜드 포인트를 사용 또는 적립 하실 수 없습니다. / 매장에서 포장 주문 시에도 혜택을 이용하실 수 있습니다. (단, 배달 주문 시에는 혜택이 적용되지 않습니다.) / 계절 신메뉴, 카플친 이벤트, 기타 할인 프로모션 및 신용카드 제휴 할인과 중복으로 이용하실 수 없습니다. / 제휴사 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 유의 사항에서 이용 가능 매장을 꼭 확인하고 방문해 주시기 바랍니다. ※ 혜택 이용 제외 매장 : 인천공항 전 매장, 신세계마산점, 신세계광주점, 신세계의정부점, 신세계대구점, 신세계배곧점, 청량리역사점, 파주프리미엄아울렛점, 현대천호점, 현대미아점 ▶ 사보텐 매장 찾기 바로가기 &gt;&gt; ▶ 사보텐 매장 찾기 바로가기 &gt;&gt; ▶ 사보텐 매장 찾기 바로가기 &gt;&gt; / 캘리스코 고객센터(1833-4550, 평일 오전 8시 30분~오후 5시 30분, 점심시간 낮 12시~오후 1시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5778",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -2661,7 +2585,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2685,7 +2609,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 이용하실 수 있습니다. - 쿠폰 다운로드 방법: T 멤버십 앱 > 오른쪽 위 '≡' 선택 > 혜택 브랜드 > 샐러디 쿠폰 다운로드 - 쿠폰 번호 확인 방법: T 멤버십 앱 > 오른쪽 위 '≡' 선택 > MY > 쿠폰함 > 쿠폰 번호 복사 / 쿠폰은 샐러디 앱에서 등록 후 사용하실 수 있습니다. - 쿠폰 등록 방법: 샐러디 앱 로그인(회원이 아닌 경우 회원가입 필요) > 왼쪽 위 '≡' 선택 > 쿠폰 > 보유한 쿠폰 > PIN(쿠폰 번호) 등록하기 > PIN(쿠폰 번호) 입력 > 확인 - 쿠폰 사용 방법: 샐러디 매장(키오스크/포스) 또는 샐러디 앱(픽업/배달)에서 사용 / 키오스크 이용 방법: 먹고가기 또는 포장하기 선택 > 메뉴 선택 > 메뉴 담기 > 결제하기 선택 > 쿠폰 바코드 스캔 > 쿠폰 적용하기 > 샐러디 충전금 사용 또는 바로 결제 선택 > 결제 수단 선택 > 결제 / 샐러디 앱 이용 방법: 주문하기 > 픽업주문 또는 배달주문 선택> 주소 선택 > 매장 선택 > 메뉴 선택 > 장바구니 담기 > 주문하기 > 멤버십 사용/적립에서 쿠폰 조회 및 선택 > 결제하기 / 이 쿠폰은 샐러디 앱에서만 등록 가능하며, 홈페이지에서는 등록하실 수 없습니다. / 이 쿠폰은 등록 후 샐러디 매장(키오스크/포스), 샐러디 앱(픽업/배달)에서만 사용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 1일 1장 다운로드하실 수 있습니다. / 이 쿠폰은 결제 1건당 1장만 사용하실 수 있습니다. / 이 쿠폰은 다른 쿠폰과 중복으로 사용하실 수 없습니다. / 이 혜택을 이용하면 샐러디 앱에서 스탬프를 적립하실 수 없습니다. / 이 쿠폰은 1장당 최대 20,000원까지 할인 적용됩니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라집니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 할인 금액에 대해 현금 영수증이 발급되지 않습니다. / 쿠폰 사용 제외 매장: 연세대점, 조선대점 / 샐러디 홈페이지/앱 내 채널톡(평일 오전 9시~오후 4시 상담 가능) * 샐러디 고객센터 바로가기 * 샐러디 고객센터 바로가기 * 샐러디 고객센터 바로가기",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5246",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2693,7 +2617,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2719,15 +2643,15 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 할인/적립 횟수 : 본인, 동반 1인(1일 1회, 최대 2매) / 포인트 사용 횟수 : 제한 없음 / 본인 : 파크이용권 금액의 40% 할인 또는 적립 / 동반 1인 : 파크이용권 금액의 30% 할인 또는 적립 / 결제 전 직원에게 T 멤버십 카드 제시 / 타 쿠폰, 타 행사, 타 제휴카드 중복 사용 불가 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=311",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
-            "전등급": "[상시] 본인 40% 할인(동반 2인 30%)"
+            "전등급": "[달.달.혜택] 본인 50% 및 동반 2인 40% 할인 [상시] 본인 40% 할인(동반 2인 30%)"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2737,7 +2661,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2756,7 +2680,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -2764,7 +2688,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2782,7 +2706,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2802,7 +2726,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2821,7 +2745,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2840,7 +2764,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2859,7 +2783,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2883,7 +2807,7 @@
           },
           "conditions": "할인 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 (본인 및 동반 2인까지) / 포인트 사용 불가 / 사우나권종 할인 제외 / 타 제휴 혜택과 중복 적용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1023",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -2891,7 +2815,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2917,7 +2841,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 할인/적립 횟수 : 1일 1회 / 포인트 사용 횟수 : 제한 없음 / 일 최대 할인 가능 : VIP/GOLD 20,000원, SILVER 10,000원 / 일 최대 적립 가능 : VIP/GOLD 20,000P, SILVER 10,000P / 1천 원 이상 금액 결제 시 혜택 적용 - 할인/적립/사용 제외 상품 : 행사 상품(1+1, 2+1, 증정, 할인), 담배, 주류, 종량제 봉투, 안전상비의약품, 유가증권(상품권 구매, 교통카드충전) 등 - 할인/적립/사용 제외 서비스: 매장 서비스 전체 (택배, 복권, 인쇄·복사), 주문 대행 판매(배달·픽업·예약 구매) 등 / 일부 특수 매장(휴게소, 리조트, 전시관, 테마파크, 병원, 공항 등)에서는 할인 및 적립을 하거나 사용하실 수 없습니다. / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=924",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -2938,7 +2862,7 @@
           },
           "conditions": "혜택 별 일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -2964,11 +2888,11 @@
         "SKT": null,
         "KT": {
           "tiers": {
-            "전등급": "[달.달.혜택] 5천원 할인 (멤버십 혜택가 기준, 단일 상품 3만5천원 이상 결제 시) [상시]멤버십 전용 특가 혜택 제공"
+            "전등급": "멤버십 전용 특가 혜택 제공"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -2990,7 +2914,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3009,7 +2933,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3040,7 +2964,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3065,7 +2989,7 @@
           },
           "conditions": "2시간 패스 평일 20% 할인 / 스탠다드 시즌 정가: 30,000원 → 혜택가: 24,000원 / 라이트 시즌 정가: 26,000원 → 혜택가: 20,800원 * 시즌 구성은 매달 변경되오니, 스몹 홈페이지에서 확인해 주시기 바랍니다. * 이용 가능 매장: 스타필드 하남/고양/수원, 신세계백화점 대전(총 4곳) / T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 스몹 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 결제 시 매장 직원에게 쿠폰을 보여주시면 할인 헤택을 받으실 수 있습니다(키오스크에서 사용하실 수 없습니다). * 이용 가능 시간은 매장마다 다를 수 있으므로, 방문 전 확인해 주시기 바랍니다. / 이 쿠폰은 결제 1건당 1장만 쓰실 수 있으며, 다른 쿠폰과 중복으로 사용하실 수 없습니다. / 이 혜택은 스몹 오프라인 매장에서만 사용하실 수 있는 쿠폰입니다(온라인에서는 사용 하실 수 없습니다). / 원활한 어트랙션 이용을 위해 최대 인원 초과 시 입장이 제한될 수 있습니다. / 이용 시간 초과 시 추가 요금이 발생할 수 있습니다. / 입장권 분실 시 별도의 요금이 부과되며, 퇴장 후 재입장은 하실 수 없습니다. / 노약자, 음주자, 임산부의 경우 체험 시설 이용이 제한될 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 쿠폰 사용 기간은 연장하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 교환 및 환불과 관련된 사항은 스몹 규정을 따릅니다. / 이 쿠폰은 다른 사람에게 넘겨줄 수 없습니다. / T 플러스포인트를 사용해 결제하실 수 없습니다. / 쿠폰 사용 기간이 지난 후 환불이나 반품 등의 이유로 다시 구매할 경우 혜택을 받으실 수 없습니다. / 스몹 고객센터(스몹 홈페이지 오른쪽 하단 채팅 상담, 평일 오전 9시~오후 5시, 주말/휴일 휴무)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5973",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -3073,7 +2997,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3081,7 +3005,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3100,7 +3024,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3132,7 +3056,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3140,7 +3064,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3158,7 +3082,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3166,7 +3090,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3184,7 +3108,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3192,7 +3116,7 @@
           },
           "conditions": "3개월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3222,7 +3146,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3242,7 +3166,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3260,7 +3184,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3280,7 +3204,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3299,7 +3223,7 @@
           },
           "conditions": "주 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3318,7 +3242,7 @@
           },
           "conditions": "연 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3336,7 +3260,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3356,7 +3280,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3371,11 +3295,11 @@
         "KT": null,
         "LGU": {
           "tiers": {
-            "ALL": "①데일리 쇼핑지원금(온라인) 6종 증정(최대 40만원 상당) ②전등급 GOLD멤버십 부여 ③쇼핑지원금 2종 2만원 증정"
+            "ALL": "①데일리 쇼핑지원금(온라인) 5종 증정(최대 25만5천원 상당) ②전등급 GOLD멤버십 부여 ③쇼핑지원금 2종 2만원 증정"
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3394,7 +3318,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3413,7 +3337,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3437,7 +3361,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 씨네Q 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 등록 방법: 씨네Q 웹/앱 회원가입 또는 로그인 &gt; 마이 페이지 &gt; 관람권/쿠폰 &gt; 쿠폰 번호 입력 &gt; 등록 ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; / 쿠폰 사용 방법: 씨네Q 웹/앱 로그인 &gt; 영화 선택 &gt; 영화관 선택 &gt; 날짜 및 시간 선택 &gt; 인원 및 좌석 선택 &gt; 결제 &gt; 할인 수단 [관람권] 탭 선택 &gt; 사용할 쿠폰 선택 &gt; 결제 / T 멤버십 할인형/적립형 고객님 모두 이용하실 수 있습니다.(단, T 우주 LITE 고객님은 이용하실 수 없습니다.) / 이 쿠폰은 씨네Q 회원가입 후 사용하실수 있습니다. / 이 쿠폰은 T 멤버십 카드당 일반관/리클라이너관 월 8장, 리저브관 월 2장 다운로드하실 수 있습니다.(최대 10장) / 일반관/리클라이너관 쿠폰은 최대 일 8장, 리저브관은 최대 일 2장 사용하실 수 있습니다.(하루에 모두 예매하실 수 있으며, 나누어 사용 가능합니다.) / 일반관/리클라이너관 쿠폰은 해당 관 예약 시에만 사용 가능하며, 성인 기준 관람권(정가 14,000원)을 9,000원에 예매하실 수 있습니다. / 리저브관 쿠폰은 해당 관 예약 시에만 사용 가능하며, 성인 기준 관람권(정가 16,000원)을 12,000원에 예매하실 수 있습니다. / 이 쿠폰은 전국 6개 씨네Q 지점에서 사용 가능합니다.(단, 일부 지점 사용 불가) / 이 쿠폰은 온라인 전용입니다. 현장 매표소에서는 사용하실 수 없습니다. / 영화관별 주차 안내는 씨네Q 홈페이지를 참고해 주시기 바랍니다. / 영화관 및 배급사 사정에 따라 쿠폰 적용 불가 영화 및 회차가 있을 수 있습니다. / 다운로드한 쿠폰을 상품권/현금으로 교환하거나 다른 사람에게 넘겨줄 수 없습니다. / 유효 기간이 지난 쿠폰을 사용하거나 다시 발급받으실 수 없습니다. / 쿠폰 캡쳐 이미지는 사용하실 수 없습니다. / 이 쿠폰은 다른 쿠폰과 함께 사용하실 수 없습니다. / 환불과 관련된 사항은 씨네Q 규정을 따릅니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / T 플러스포인트를 사용해 예매하실 수 없습니다. / 씨네Q 지점 및 시간대에 따라 관람 요금이 다를 수 있습니다. / 씨네Q 2D 상영관에서만 혜택 이용 가능하며, 3D 상영관에서는 이용하실 수 없습니다. * 쿠폰 사용 제외 지점: 보은, 영덕예주, 칠곡호이 / 문의: 씨네Q 홈페이지 1:1 문의 또는 고객센터(1544-1533, 평일 오전 10시~오후 6시, 주말 휴무, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1020",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -3458,7 +3382,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3477,7 +3401,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3496,7 +3420,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3514,7 +3438,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3522,7 +3446,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3540,7 +3464,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3583,7 +3507,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3602,7 +3526,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3628,7 +3552,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 T 멤버십 앱의 일회용 바코드를 매장 직원에게 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 일회용 바코드는 매장 영업시간에 이용하실 수 있으며 결제 전 매장 직원에게 일회용 바코드는 보여주시기 바랍니다. / 매장별 영업시간은 아웃백 스테이크하우스 공식 홈페이지 참고 및 매장에 문의하시기 바랍니다. ▶아웃백 스테이크하우스 매장 확인하기 >> ▶아웃백 스테이크하우스 매장 확인하기 >> ▶아웃백 스테이크하우스 매장 확인하기 >> / 횟수 제한 : 1일 1회 / 월 최대 4회 할인 또는 적립 * 최대 할인 가능: 일 최대 VIP/GOLD 20,000원, SILVER 10,000원 * 최대 적립 가능: 일 최대 VIP/GOLD 20,000P, SILVER 10,000P / 포인트 사용: T 플러스포인트는 보유하신 한도 내에서 횟수 제한 없이 사용 가능 / 이 혜택은 T 멤버십 내 다른 아웃백 스테이크하우스 혜택과 같은 날에 이용하실 수 있습니다. 단, 결제 1건당 1개의 혜택만 받으실 수 있습니다. / 이 혜택은 매장에 방문 시 이용하실 수 있습니다.(모바일 주문 및 딜리버리 매장에서는 혜택을 이용하실 수 없습니다.) / 아웃백 상품권, 도시락(런치 박스) 구매 시에는 본 혜택을 이용하실 수 없습니다. / 부메랑 멤버십 등급별 조건을 충족할 경우, 부메랑 멤버십 쿠폰 1종과 중복 사용 가능합니다. / T 플러스포인트를 사용해 결제하실 수 있습니다. T 플러스포인트는 보유한 한도 안에서 횟수 제한 없이 사용하실 수 있으며, 최소 사용 단위는 10P입니다. / 적립된 T 플러스포인트는 ‘적립 예정’ 포인트로 표시되며, 결제한 다음 날부터 사용 가능 포인트로 전환됩니다. / 할인 금액 및 사용 포인트에 대해 현금 영수증이 발급되지 않습니다. / 캡처한 바코드 이미지는 사용하실 수 없습니다. / 환불과 관련된 사항은 아웃백 스테이크하우스 규정을 따릅니다. / 아웃백 스테이크하우스 고객센터(1577-0500, 평일 오전 10시~오후 5시, 점심시간 낮 12시~오후 1시 30분, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1173",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -3639,7 +3563,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3659,7 +3583,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3690,7 +3614,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3726,7 +3650,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 일 최대 4매 / 포인트 사용 불가 / 일부 상품 제외 / 타 제휴 혜택과 중복 적용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1136",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -3734,7 +3658,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3742,7 +3666,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3766,7 +3690,7 @@
           },
           "conditions": "쿠폰 다운로드 방법 - T 멤버십 앱: 로그인 &gt; 혜택 브랜드 &gt; 아쿠아필드에서 쿠폰 다운로드 / 다운로드한 쿠폰 확인 방법 - T 멤버십 앱: 로그인 &gt; T 멤버십 페이지 오른쪽 위 '≡' 선택 &gt; MY &gt; 쿠폰함 / 결제하기 전 아쿠아필드 직원에게 쿠폰을 보여 주시기 바랍니다. / 이 쿠폰은 아쿠아필드 오프라인 지점(하남/고양/안성)에서 사용하실 수 있습니다. / 이 쿠폰은 찜질스파 또는 워터파크 중 1개를 선택해 사용하실 수 있습니다.(멀티패스에는 적용되지 않습니다.) / 36개월 미만은 주민등록등본 등 나이를 확인할 수 있는 서류를 가져오시면 아쿠아필드에 무료로 입장할 수 있습니다. / 본인 포함 최대 2명까지 혜택을 이용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 이 쿠폰은 현장 결제 시에만 사용하실 수 있습니다. / 다른 할인 혜택과 중복으로 이용하실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 방문 전에 아쿠아필드 홈페이지의 이용 안내와 운영 정책을 꼭 읽어 주시기 바랍니다. / 아쿠아필드 고객센터(하남점: 031-8072-8800, 고양점: 031-5173-4500, 안성점: 031-8092-1900, 평일 오전 10시~오후 6시)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5503",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -3774,7 +3698,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3782,7 +3706,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3806,7 +3730,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다.(클럽아티제 앱/키오스크 주문 시 혜택을 이용하실 수 없습니다.) / 이 혜택은 1일 1회 받으실 수 있습니다. / 일부 품목은 할인받으실 수 없습니다.(세트 메뉴/병 음료/주류/리테일 제품/MD 상품) / 클럽아티제 멤버십 혜택과 중복으로 적용되지 않습니다. / 다른 할인 쿠폰, 종이/모바일 상품권, 프로모션 혜택과 중복으로 적용되지 않습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 일부 특수 매장에서는 혜택을 이용하실 수 없습니다. * 특수 매장: 면세2점, 서울호텔점, 신라성우빌딩점, 신라장충사옥점, 삼성바이오에피스점, 대한제분사내카페점, 평택삼성캠퍼스1점, 평택삼성캠퍼스2점 / 아티제 고객센터(02-2155-5777, 평일 오전 10시~오후 5시, 주말/공휴일 휴무, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5614",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -3838,7 +3762,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3869,7 +3793,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3877,7 +3801,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3895,7 +3819,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -3920,15 +3844,15 @@
           },
           "conditions": "에버랜드 종일권 본인 40% 할인 및 동반 3인 30% 할인 ① 대인(본인) 종일권 - 5월, 10월, 11월: 정가 68,000원 → 혜택가 40,800원 - 6월, 9월: 정가 62,000원 → 혜택가 37,200원 - 7월, 8월, 12월: 정가 52,000원 → 혜택가 31,200원 ② 소인(본인) 종일권 - 5월, 10월, 11월: 정가 58,000원 → 혜택가 34,800원 - 6월, 9월: 정가 52,000원 → 혜택가 31,200원 - 7월, 8월, 12월: 정가 42,000원 → 혜택가 25,200원 ③ 대인(동반인) 종일권 - 5월, 10월, 11월: 정가 68,000원 → 혜택가 47,600원 - 6월, 9월: 정가 62,000원 → 혜택가 43,400원 - 7월, 8월, 12월: 정가 52,000원 → 혜택가 36,400원 ④ 소인(동반인) 종일권 - 5월, 10월, 11월: 정가 58,000원 → 혜택가 40,600원 - 6월, 9월: 정가 52,000원 → 혜택가 36,400원 - 7월, 8월, 12월: 정가 42,000원 → 29,400원 * 시즌 캘린더는 에버랜드 홈페이지에서 확인하실 수 있습니다. * 쿠폰 1장으로 본인 종일권 1장과 동반인 종일권 최대 3장을 할인받으실 수 있습니다. * 쿠폰 다운로드 당일 예약 및 방문하실 수 있습니다. * 에버랜드 우대 할인(소인/경로/장애인/국가 유공자/3자녀 이상 가정/임산부 등)을 중복으로 받으실 수 없습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; 혜택 브랜드 &gt; 에버랜드 쿠폰 다운로드 / 쿠폰 확인 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; MY &gt; 쿠폰함 / 쿠폰 등록 방법: 혜택 쿠폰함에서 에버랜드 쿠폰 선택 &gt; 인증 코드 복사 및 예매하러 가기 &gt; 인증 코드 입력 &gt; T 멤버십 전용 스마트 예약 페이지 접속 &gt; 회원가입/로그인 &gt; 방문일 선택 후 종일권 구매 / 에버랜드 입장 방법: T 멤버십 전용 스마트 예약 페이지에서 종일권 구매 &gt; 카카오톡 알림톡 또는 문자로 에버랜드 종일권 QR 코드 받기 &gt; 에버랜드 정문에서 QR 코드 제시 * 이 쿠폰은 스마트 예약(온라인) 페이지에서만 사용하실 수 있습니다. 현장 매표소 및 키오스크에서 사용하실 수 없습니다. ▶ 에버랜드 종일권 구매하기(T 멤버십 전용 스마트 예약 페이지) &gt;&gt; ▶ 에버랜드 종일권 구매하기(T 멤버십 전용 스마트 예약 페이지) &gt;&gt; ▶ 에버랜드 종일권 구매하기(T 멤버십 전용 스마트 예약 페이지) &gt;&gt; / 이 쿠폰은 T 멤버십 카드당 일 1회 다운로드하실 수 있습니다. / 이 쿠폰은 에버랜드 회원가입 후 이용하실 수 있습니다. / 종일권 구매 시 선택한 방문일에만 입장하실 수 있습니다. / 동반인 종일권을 함께 구매한 경우 같은 QR 코드로 동반인도 입장하실 수 있습니다. / 실제 결제 금액에 대해서만 현금 영수증을 발급받으실 수 있습니다.(이 쿠폰은 현금 영수증 발급 대상이 아닙니다.) / 쿠폰 사용 기간은 매달 1일부터 마지막 날까지이며, 연장하실 수 없습니다. / 환불과 관련된 사항은 에버랜드 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 이 쿠폰은 다른 쿠폰(종이 상품권, 모바일 상품권(금액권/제품권), 할인 쿠폰, 기타 쿠폰)과 함께 사용하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 결제 시 에버랜드 멤버십 포인트(솜 포인트)를 사용/적립하실 수 있습니다. / 만 36개월 미만 유아는 나이를 확인할 수 있는 서류를 보여 주시면 무료 입장할 수 있습니다.(단, 유아 놀이 시설의 이용요금은 별도입니다.) / 운영 시간은 현장 상황에 따라 사전 안내 없이 달라질 수 있습니다. 방문 전 에버랜드 홈페이지에서 확인해 주시기 바랍니다. / 입장 후 종일권을 취소/환불하실 수 없습니다. ▶ 에버랜드 홈페이지 바로 가기 &gt;&gt; ▶ 에버랜드 홈페이지 바로 가기 &gt;&gt; ▶ 에버랜드 홈페이지 바로 가기 &gt;&gt; / 에버랜드 고객센터(031-320-5000, 오전 9시~오후 6시, 연중무휴, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5244",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
-            "전등급": "[상시혜택] 본인 40% 및 동반 3인 20% 할인 [생일혜택] 이용권 50% 할인"
+            "전등급": "[달.달.혜택] 본인 45% 및 동반 3인 30% 할인[상시혜택] 본인 40% 및 동반 3인 20% 할인 [생일혜택] 이용권 50% 할인"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -3936,7 +3860,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -3966,7 +3890,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4004,7 +3928,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / T 멤버십 혜택은 대상 제품에 한함 / 대상 상품 : 아메리카노 및 카페라떼 S,R 사이즈 / 사이즈 변경 및 타 제품 교환 불가 / 횟수 제한 : ①할인 : 1일 1회 가능 ②적립 : 1일 1회 가능 ③사용 : 횟수 제한 없음 / 최대 할인 가능: 일 최대 VIP/GOLD 40,000원, SILVER 30,000원 할인 / 최대 적립 가능: 일 최대 VIP/GOLD 40,000P, SILVER 30,000P 적립 / 일부 특수 점포(백화점, 공항, 리조트, 휴게소, 마트, 몰, 위락시설 주변 매장 등) 혜택 제공 불가 / 타 쿠폰 및 혜택 프로그램과 중복 적용 불가 / 매장에서 주문하시는 경우에만 할인 또는 적립 혜택을 받으실 수 있습니다.(배달 및 매장 픽업 서비스 제외) / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 다음날부터 사용 가능 포인트로 전환됩니다",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=887",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -4025,7 +3949,7 @@
           },
           "conditions": "가정당 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4044,7 +3968,7 @@
           },
           "conditions": "가정당 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4068,7 +3992,7 @@
           },
           "conditions": "T 멤버십 앱에서 무료 체험 신청 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 엘리하이/엠베스트에서 이벤트 페이지 바로 가기 누르기 &gt; 무료 체험 신청 ▶ 엘리하이 키즈(4~7세) 바로 가기 &gt;&gt; ▶ 엘리하이 키즈(4~7세) 바로 가기 &gt;&gt; ▶ 엘리하이 키즈(4~7세) 바로 가기 &gt;&gt; ▶ 엘리하이(초등) 바로 가기 &gt;&gt; ▶ 엘리하이(초등) 바로 가기 &gt;&gt; ▶ 엘리하이(초등) 바로 가기 &gt;&gt; ▶ 엠베스트(중등) 바로 가기 &gt;&gt; ▶ 엠베스트(중등) 바로 가기 &gt;&gt; ▶ 엠베스트(중등) 바로 가기 &gt;&gt; / 이 혜택은 엘리하이/엠베스트 가입 또는 체험한 적 없는 고객님만 T 멤버십 카드당 1회 이용하실 수 있습니다. / 이 혜택은 가구당 1회 받으실 수 있습니다. / 키즈/초등/중등 중 1가지만 신청하실 수 있습니다. / 무료 체험 신청 후 24시간 안에(주말/공휴일 제외) 해피콜이 진행됩니다. 신청 고객님 정보와 주소 확인 후 영업일 기준 3~5일 안에 학습기를 보내 드립니다. / 학습기 배송이 시작되면 문자메시지(SMS) 또는 카카오톡으로 송장 번호를 보내 드립니다. / 무료 체험이 끝나면 해피콜로 학습기 반납에 대해 안내드리며, 회수를 위해 배송 기사님이 댁으로 방문합니다. / 안전한 서비스 제공 및 고객님의 개인정보 보호를 위해 반드시 무료 학습 회원 및 법정 대리인 인증이 필요합니다. / 학습기 훼손 시 삼성전자 AS 센터를 통해 수리 후 반납하셔야 합니다. 고의적으로 반납하지 않으시는 경우 민형사상 책임을 질 수 있으며, 분실 시 학습기 가격을 배상하셔야 합니다. / 신세계상품권은 매월 마지막 날까지 학습기에 로그인하면 다음 달 15일경 학부모님 휴대폰 번호로 보내 드립니다.(공휴일/주말인 경우 전날 발송) / 신세계상품권 기프티콘 유효 기간은 59일입니다. 기간이 지나면 사용하실 수 없으며 다시 보내 드리지 않습니다. / 교재 쿠폰 및 초등/중등 설명회 다운로드 쿠폰은 무료 체험 시작 시 해당 계정으로 자동 발급됩니다. / 교재 쿠폰 유효 기간은 발급일 포함 31일, 설명회 다운로드 쿠폰은 90일입니다. 기간이 지나면 사용하거나 다시 발급받으실 수 없습니다. * 중등 인강 1위(2023년 중등 유료 온라인 교육 업체 공시 매출 기준) * 초등 온라인 교육 1위(2023년 한국소비자평가 초등 온라인 교육 부문) / 엘리하이/엠베스트 학습 지원센터(1544-2300, 평일 오전 9시~오후 10시, 점심시간 낮 12시~오후 1시)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5589",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -4089,7 +4013,7 @@
           },
           "conditions": "가정당 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4107,7 +4031,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4132,7 +4056,7 @@
           },
           "conditions": "여수 유월드 자유 이용권 40% 할인(최대 6명) ① 올데이패스 정가 63,000원 → 혜택가 37,800원 (롤글라이더 + 루지 + 놀이공원 + 5D 모션 시네마 + 테디베어 뮤지엄 + 키즈 파크) ② 프라임패스 정가 58,000원 → 혜택가 34,800원 (루지 + 놀이공원 + 5D 모션 시네마 + 테디베어 뮤지엄 + 키즈 파크) ③ 라이트패스 정가 48,000원 → 혜택가 28,800원 (놀이공원 + 5D 모션 시네마 + 테디베어 뮤지엄 + 키즈 파크) / T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. / 쿠폰 다운로드 방법 ① T 멤버십 앱 &gt; 혜택 브랜드 &gt; 여수 유월드 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 여수 유월드 방문 &gt; 매표소 직원에게 쿠폰 제시 / 이 쿠폰은 여수 유월드 현장 매표소에서 사용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 월 1장 다운로드하실 수 있습니다. / 고객님 본인 및 동반 5인까지 혜택을 이용하실 수 있습니다. / 여수 유월드 이용 시 각 시설물에 붙어 있는 안내문과 이용 제한 내용을 확인해 주시기 바랍니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라지며 복원되지 않습니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 이 쿠폰은 다른 제휴 이벤트/쿠폰/할인 혜택과 중복으로 적용되지 않습니다. / 이 쿠폰을 사용하면 포인트를 적립하거나 제휴 카드 할인을 받으실 수 없습니다. / 어린이날 연휴, 추석 연휴 등에는 현장 운영 상황에 따라 자유이용권 판매 및 발권이 조기 마감될 수 있으며, 자유이용권 판매가 조기 마감된 경우 스탠다드 패스(콤보권) 전 권종에 동일한 할인 혜택이 제공됩니다. / 환불과 관련된 사항은 여수유월드루지테마파크 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 여수유월드루지테마파크 고객센터(061-810-6000, 오전 10시~오후 7시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5972",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -4182,7 +4106,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 1일 1회 이용 가능 / 결제 전 직원에게 바코드 제시 후 이용 가능",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1097",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -4205,7 +4129,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4224,7 +4148,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4242,7 +4166,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4261,7 +4185,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4269,7 +4193,7 @@
           },
           "conditions": "혜택 별 연 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4300,7 +4224,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4318,7 +4242,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4344,7 +4268,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 결제 금액 100,000원 한도 안에서 혜택을 받으실 수 있습니다. / 횟수 제한: 하루 1회 할인 또는 적립, T 플러스포인트 사용 횟수는 제한 없음 / 최대 할인 금액: 하루 최대 VIP 15,000원, GOLD/SILVER 5,000원 / 최대 적립 금액: 하루 최대 VIP 15,000P, GOLD/SILVER 5,000P / 10원 미만의 혜택 금액은 절사합니다. / 정가 메뉴에 한해 할인 또는 적립받으실 수 있습니다.(주류, 런치/세트 메뉴 제외) / 금액권/쿠폰을 함께 사용하실 수 없습니다.(단, 온더보더 생일/기념일 쿠폰 사용 가능) / 신용카드 제휴 프로모션 등 다른 혜택과 중복으로 적용되지 않습니다. / 적립된 T 플러스포인트는 ‘적립 예정’ 포인트로 표시되며, 결제한 다음 날부터 사용하실 수 있습니다. ▶ 온더보더 매장 확인하기 &gt;&gt; ▶ 온더보더 매장 확인하기 &gt;&gt; ▶ 온더보더 매장 확인하기 &gt;&gt; / 혜택 제외 매장: 부산삼정타워점, 에버랜드점, 동부산 롯데프리미엄아울렛점 / 문의: 온더보더 고객센터(02-3280-5100, 평일 오전 8시 30분~오후 5시 30분, 점심시간 오전 11시 30분~낮 12시 30분, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5525",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -4353,7 +4277,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4374,7 +4298,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4395,7 +4319,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4414,7 +4338,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4433,7 +4357,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4457,7 +4381,7 @@
           },
           "conditions": "워터파크&온천스파 종일권 본인 및 동반 1인 30% 할인(본인 포함 최대 2인) / 쿠폰 1장으로 본인 종일권 1장과 동반인 종일권 1장을 할인받으실 수 있습니다. / 주중/주말/공휴일 공통 종일권 기준으로 할인 혜택이 적용됩니다. / 시즌 일정 및 휴장일에 관한 자세한 사항은 웅진플레이도시 홈페이지에서 확인하실 수 있습니다. ▶ 웅진플레이도시 일정 확인 바로가기 &gt;&gt; ▶ 웅진플레이도시 일정 확인 바로가기 &gt;&gt; ▶ 웅진플레이도시 일정 확인 바로가기 &gt;&gt; / T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 웅진플레이도시 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 웅진플레이도시 워터파크/온천스파 현장 매표소 직원에게 쿠폰 제시 * 키오스크(무인 발권기)에서는 쿠폰을 사용하실 수 없습니다. / 운영 시간(주중/주말/공휴일): 오전 10시~오후6시 * 운영 마감시간은 퇴장 시간 기준입니다. * 각 시설물의 운영 시간은 현장 상황에 의해 당일 변경될 수 있습니다. * 동시 이용 인원 초과 시 입장이 제한될 수 있습니다. / 이 쿠폰은 본인 명의의 T 멤버십 카드당 일 1회 다운로드 하실 수 있습니다. / 이 쿠폰은 웅진플레이도시 내 '워터파크/온천스파' 에서만 사용하실 수 있습니다.(혜택 대상 시설 외 다른 시설에서는 사용 안 됨) / 쿠폰 사용 시 본인 및 동반 1인까지 혜택을 받으실 수 있습니다.(본인 포함 최대 2인) / 이 혜택은 현장매표소 직원에게 쿠폰을 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 키오스크(무인 발권기)에서는 쿠폰을 사용하실 수 없습니다. / 36개월 미만 유아의 경우 나이를 확인할 수 있는 증빙 서류(가족관계증명서, 건강 보험증, 주민등록등본 등)를 보여 주시면 무료로 입장할 수 있습니다. / 혜택 이용 시 무료 주차 8시간이 제공되며 입장 또는 퇴장 시 등록 후 이용하실 수 있습니다.(1일 1회 적용 가능) / 이 쿠폰은 현장 결제 시에만 사용 가능하며, 다른 할인 및 제휴 혜택과 중복으로 적용되지 않습니다. / 할인된 금액에 대해서는 현금 영수증이 발급되지 않습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 기간이 지난 쿠폰은 연장 및 재발급 받으실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 환불과 관련된 사항은 웅진플레이도시 규정을 따릅니다. / 영업 시간은 현장 상황에 따라 달라질 수 있습니다. 방문 전 웅진플레이도시 홈페이지의 이용 안내와 운영 정책을 참고해 주시기 바랍니다. / 쿠폰 문의: 웅진플레이도시 고객센터(1577-5773, 오전 10시~오후 5시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=2518",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -4466,7 +4390,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4496,7 +4420,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4504,7 +4428,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4522,7 +4446,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4530,7 +4454,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4554,7 +4478,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 원더파크/원더빌리지 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 원더파크 또는 원더빌리지 방문 &gt; 매표소 직원에게 쿠폰 제시 / 나이 기준 대인: 중학생 이상 소인: 24개월~초등학생 영유아: 24개월 미만(증빙 서류 지참 시 무료 입장) / 이 쿠폰은 원더파크 또는 원더빌리지 현장 매표소에서만 사용하실 수 있습니다. / 이 쿠폰은 방문하는 매장에서만 사용하실 수 있습니다. / 이 쿠폰은 고객님 본인 명의의 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 일일 입장 제한 인원과 관계없이 입장하실 수 있습니다. / 고객님 본인 포함 최대 4명까지 혜택을 이용하실 수 있습니다. / 원더파크 또는 원더빌리지 이용 시 각 시설물에 붙어 있는 안내문과 이용 제한 내용을 확인해 주시기 바랍니다. / 24개월 미만 영유아는 주민등록등본 등 증빙 서류를 보여 주시면 무료 입장할 수 있습니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라지며 복원되지 않습니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 이 쿠폰은 다른 제휴 이벤트/쿠폰/할인 혜택과 중복으로 적용되지 않습니다. / 이 혜택을 이용하면 포인트를 적립하거나 제휴 카드 할인을 받으실 수 없습니다. / 환불과 관련된 사항은 원더파크 또는 원더빌리지 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 원더파크 고객센터(1555-5443, 평일 오전 10시~오후 6시, 유료) * 3/6/9/12월 첫째주 월요일은 정기 휴관일로 고객센터를 운영하지 않습니다. / 원더빌리지 고객센터(031-5173-3457, 오전 10시~오후 6시, 연중무휴, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5717",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -4586,7 +4510,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4594,7 +4518,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4613,7 +4537,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4656,7 +4580,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4680,7 +4604,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / T 멤버십 할인형/적립형 구분 없이 1일 1회 이용하실 수 있습니다. / T 플러스포인트는 보유하신 한도 안에서 횟수 제한 없이 사용하실 수 있습니다. / 이 혜택은 2만 원 이상 구매 시 이용하실 수 있습니다. / 최대 할인 금액: 하루 최대 4,000원 / 최대 적립 금액: 하루 최대 4,000P / 세트 메뉴, 주류, 음료는 혜택 품목에 포함되지 않습니다. / 다른 할인/적립 쿠폰, 프로모션, 모바일 쿠폰(금액권)과 중복으로 사용하실 수 없습니다. / 이 혜택은 유가네닭갈비 매장에 방문하여 현장 결제 시에만 이용하실 수 있습니다.(모바일 및 배달 주문 시에는 이용하실 수 없습니다.) / 적립된 T 플러스포인트는 '적립 예정' 포인트로 표시되며, 결제한 다음 날부터 사용하실 수 있습니다. / 유가네닭갈비 고객센터(070-4334-3824, 평일 오전 9시~오후 5시 30분, 점심시간 오전 11시 30분~낮 12시 30분, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5279",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -4691,7 +4615,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4710,7 +4634,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4729,7 +4653,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4748,7 +4672,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4766,7 +4690,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4785,7 +4709,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -4819,7 +4743,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4829,7 +4753,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4853,7 +4777,7 @@
           },
           "conditions": "할인 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 1일 1회 이용가능 / 결제 전 직원에게 T 멤버십 카드 제시, T 멤버십 앱에서 직접 실행한 카드만 이용가능 (캡쳐본 및 플라스틱 카드 불가) / 자유이용권 및 야간자유이용권의 어른 요금에만 할인 적용 가능 / 현장 구매 티켓은 당일에 한하여 이용 가능 / 타 할인/적립 혜택과 중복 적용 불가 / T 플러스포인트 사용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1052",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -4861,7 +4785,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -4869,7 +4793,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4888,7 +4812,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4919,7 +4843,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4943,7 +4867,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 자란다 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 등록 방법 혜택 ① : 자란다 앱 회원가입 또는 로그인 &gt; 마이 페이지 &gt; 쿠폰 &gt; 쿠폰 번호 입력 후 등록 ▶ 혜택 ① 쿠폰 등록하기 &gt;&gt; ▶ 혜택 ① 쿠폰 등록하기 &gt;&gt; ▶ 혜택 ① 쿠폰 등록하기 &gt;&gt; 혜택 ② : 자란다 앱 회원가입 또는 로그인 &gt; 마이 페이지 &gt; 포인트 &gt; 쿠폰 번호 입력 후 등록 ▶ 혜택 ② 쿠폰 등록하기 &gt;&gt; ▶ 혜택 ② 쿠폰 등록하기 &gt;&gt; ▶ 혜택 ② 쿠폰 등록하기 &gt;&gt; / 쿠폰 사용 방법 ① 아이 기질 분석 50% 할인 쿠폰: 자란다 앱 로그인 &gt; 홈 &gt; '기질 알아보고 똑똑하게 육아하기' 아래 '더 보기' 누르기 &gt; '아이 기질 분석'에서 나이에 맞는 검사 선택 &gt; 구매하기 &gt; 쿠폰 적용 &gt; 결제 ② 돌봄 서비스 50% 할인 쿠폰: 자란다 앱 로그인 &gt; 홈 &gt; '놀이돌봄' 선택 &gt; 다음 &gt; 원하는 돌봄(놀이돌봄, 긴급돌봄, 견학/동행) 선택 &gt; 세부 사항(원하는 활동, 질문, 시범 수업 등) 선택 &gt; 구매하기 &gt; 쿠폰 적용 &gt; 결제 / 이 쿠폰은 자란다 앱 다운로드 및 회원가입 후 사용하실 수 있습니다.(회원이 아닌 경우 적용되지 않습니다.) / 이 쿠폰은 T 멤버십 카드당 매달 2장 다운로드하실 수 있습니다.(아이 기질 분석 50% 할인 쿠폰/돌봄 서비스 5,000원 할인 쿠폰 각 1장, 총 2장) / 혜택 ② 쿠폰은 자란다 신규가입 고객님만 사용하실 수 있습니다. / 이 쿠폰은 자란다 앱 부모님 아이디에 등록 후 사용하실 수 있습니다.(다른 아이디에 등록 시 사용하실 수 없습니다.) * 혜택 ① 쿠폰은 모든 나이대의 아이기질분석(행동분석/학습분석) 시 사용하실 수 있습니다. / 아이 기질별 행동 분석: a. 36개월 ~ 54개월 / b. 55개월 ~ 미취학 / 아이 기질별 학습 분석: c. 초등1학년 ~ 3학년 / d. 초등4학년 ~ 6학년 / 가족 기질 분석에는 사용하실 수 없습니다. / 일부 지역에서는 자란다 서비스를 이용하실 수 없습니다. 자란다 앱에서 주소를 검색하면 서비스 이용 가능 지역을 확인하실 수 있습니다. ▶ 이용 가능 지역 확인하기 &gt;&gt; ▶ 이용 가능 지역 확인하기 &gt;&gt; ▶ 이용 가능 지역 확인하기 &gt;&gt; / 이 쿠폰은 다른 쿠폰과 중복으로 사용하실 수 없습니다.(단, 자란 머니는 함께 사용하실 수 있습니다.) / 이 쿠폰은 다운로드한 달의 마지막 날까지 등록하실 수 있습니다. 사용 기간은 등록일 포함 90일입니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 자란다 고객센터(1577-4013, 평일 오전 10시~오후 7시, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5633",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -4952,7 +4876,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4971,7 +4895,7 @@
           },
           "conditions": "할인 쿠폰 : 월 1회 e.POINT : 가입 시 최초 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -4989,7 +4913,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5023,7 +4947,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5054,7 +4978,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5090,7 +5014,7 @@
           },
           "conditions": "1일 1회 이용가능 / 비수기(25.1.1~25.2.28, 25.11.1~25.12.31) 46% 할인, 평수기(25.3.1~25.10.31) 26% 할인 / 제휴 혜택은 테마파크만 해당 됩니다.(객실 할인 혜택 적용 안 됨) / 쿠폰 다운로드 방법 - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 제주신화월드에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - 다운로드한 쿠폰은 MY &gt; 쿠폰함에서 확인 가능합니다. / T 멤버십 앱에서 쿠폰 다운로드 받은 후 결제 전 직원에게 쿠폰 제시 / T 멤버십 앱에서 직접 실행한 쿠폰만 사용 가능(캡쳐본 불가) / 쿠폰 1장당 본인 및 동반 3인까지 할인 / 현장 결제 시에만 쿠폰 사용 가능 / 제공되는 쿠폰은 직영점에서만 사용 가능 / 미사용 쿠폰에 대해 현금 또는 다른 바우처로 환불/교환되지 않습니다 / 타 할인/적립 혜택과 중복 적용 불가 / T 플러스포인트 사용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1177",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -5110,7 +5034,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5147,7 +5071,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 주렁주렁 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 * 경주점, 영등포점 : 결제하기 전 현장 매표소 직원에게 쿠폰을 보여 주면 할인받으실 수 있습니다. * 하남점, 동탄점 : 키오스크에서 T 멤버십 할인 입장권 구매 후 입구 직원에게 쿠폰을 보여주시기 바랍니다. / 이 쿠폰은 주렁주렁 동탄/영등포/하남/경주 지점에서 사용하실 수 있습니다. / 18개월 미만 유아는 주민등록등본 등 증빙 서류를 보여 주시면 무료 입장할 수 있습니다. / 이 쿠폰은 현장 발권 시에만 사용하실 수 있습니다. / 고객님 본인 포함 최대 4명까지 혜택을 이용하실 수 있습니다. / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 다른 카드 할인/우대 혜택과 중복으로 적용되지 않습니다. / T 플러스포인트를 함께 사용하실 수 없습니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5630",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -5155,7 +5079,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -5163,7 +5087,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5181,7 +5105,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5202,7 +5126,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5221,7 +5145,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5240,7 +5164,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5260,26 +5184,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
-        },
-        "LGU": null
-      }
-    },
-    {
-      "brand": "차일디",
-      "aliases": [],
-      "category": "KT-쇼핑",
-      "status": "needs_review",
-      "statusReason": "카테고리 '쇼핑' 또는 브랜드명 기준으로 오프라인 매장 여부 확인 필요",
-      "carriers": {
-        "SKT": null,
-        "KT": {
-          "tiers": {
-            "전등급": "10% 할인 쿠폰, 15% 할인 쿠폰"
-          },
-          "conditions": "",
-          "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5298,7 +5203,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -5306,7 +5211,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5339,7 +5244,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5360,7 +5265,26 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
+        },
+        "LGU": null
+      }
+    },
+    {
+      "brand": "초대 혜택",
+      "aliases": [],
+      "category": "KT-플레이",
+      "status": "included",
+      "statusReason": null,
+      "carriers": {
+        "SKT": null,
+        "KT": {
+          "tiers": {
+            "전등급": "[초대 혜택] 2026 KT VOYAGE FESTIVAL 응모"
+          },
+          "conditions": "",
+          "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5382,7 +5306,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -5390,7 +5314,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5408,7 +5332,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5430,7 +5354,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -5440,7 +5364,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5459,7 +5383,7 @@
           },
           "conditions": "월 3회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5477,34 +5401,8 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
-        "LGU": null
-      }
-    },
-    {
-      "brand": "캐리마켓",
-      "aliases": [],
-      "category": "키즈(ZEM)",
-      "status": "included",
-      "statusReason": null,
-      "carriers": {
-        "SKT": {
-          "tiers": {
-            "VIP": "모든 상품 10% 할인(최대 3만 원 할인)",
-            "GOLD": "모든 상품 10% 할인(최대 3만 원 할인)",
-            "SILVER": "모든 상품 10% 할인(최대 3만 원 할인)"
-          },
-          "tiersEarn": {
-            "VIP": "모든 상품 10% 할인(최대 3만 원 할인)",
-            "GOLD": "모든 상품 10% 할인(최대 3만 원 할인)",
-            "SILVER": "모든 상품 10% 할인(최대 3만 원 할인)"
-          },
-          "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 캐리마켓 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 등록 및 사용 방법: 아래 '쿠폰 등록하기' 누르기 &gt; 캐리마켓 온라인 스토어(앱/홈페이지) 로그인 또는 회원가입 &gt; 마이캐리 &gt; 할인 쿠폰 &gt; '할인 쿠폰 교환권 등록'에 쿠폰 번호 입력 &gt; 결제 시 쿠폰 적용 ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; ▶ 쿠폰 등록하기 &gt;&gt; / 이 쿠폰은 캐리마켓 온라인 스토어(앱/홈페이지) 회원가입 후 사용하실 수 있습니다.(오프라인 매장에서는 사용하실 수 없습니다.) / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 이 쿠폰은 배송비를 제외하고 10,000원 이상 구매 시 사용하실 수 있으며, 최대 할인 금액은 30,000원입니다.(결제 금액 300,000원 한도 안에서 혜택 이용 가능) / 배송비를 제외하고 50,000원 이상 구매 시 무료 배송됩니다.(50,000원 미만인 경우 배송비가 청구됩니다. 배송비는 배송 업체별로 다르며, 상품 상세 페이지에서 확인하실 수 있습니다.) / 이 쿠폰은 캐리마켓 모든 상품에 적용됩니다.(일부 브랜드/상품에는 사용하실 수 없습니다.) / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 쿠폰 사용 기간은 연장할 수 없습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 이 쿠폰은 다른 쿠폰/혜택과 중복으로 적용되지 않습니다. / 쿠폰 사용 기간은 매달 1일부터 마지막 날 오후 11시 59분까지입니다.",
-          "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5634",
-          "collectedAt": "2026-09-30"
-        },
-        "KT": null,
         "LGU": null
       }
     },
@@ -5528,7 +5426,7 @@
           },
           "conditions": "캐리비안 베이 종일권 본인 40% 할인 및 동반 3인 30% 할인 * 2025년 5월 1일(목)부터 혜택을 이용하실 수 있습니다.(3월 4일(화)~4월 30일(수)은 휴장 기간입니다.) ① 대인(본인) 종일권 - 골드 시즌: 정가 79,000원 → 혜택가 47,400원 - 하이 시즌: 정가 65,000원 → 혜택가 39,000원 - 미들 시즌: 정가 55,000원 → 혜택가 33,000원 - 로 시즌: 정가 45,000원 → 혜택가 27,000원 ② 소인(본인) 종일권 - 골드 시즌: 정가 63,000원 → 혜택가 37,800원 - 하이 시즌: 정가 52,000원 → 혜택가 31,200원 - 미들 시즌: 정가 44,000원 → 혜택가 26,400원 - 로 시즌: 정가 36,000원 → 혜택가 21,600원 ③ 대인(동반인) 종일권 - 골드 시즌: 정가 79,000원 → 혜택가 55,300원 - 하이 시즌: 정가 65,000원 → 혜택가 45,500원 - 미들 시즌: 정가 55,000원 → 혜택가 38,500원 - 로 시즌: 정가 45,000원 → 혜택가 31,500원 ④ 소인(동반인) 종일권 - 골드 시즌: 정가 63,000원 → 혜택가 44,100원 - 하이 시즌: 정가 52,000원 → 혜택가 36,400원 - 미들 시즌: 정가 44,000원 → 혜택가 30,800원 - 로 시즌: 정가 36,000원 → 혜택가 25,200원 * 시즌 캘린더는 캐리비안 베이 홈페이지에서 확인하실 수 있습니다. * 쿠폰 1장으로 본인 종일권 1장과 동반인 종일권 최대 3장을 할인받으실 수 있습니다. * 쿠폰 다운로드 후 방문일 전날까지 예약해 주시기 바랍니다.(당일 예약 안 됨) * 에버랜드 우대 할인(소인/경로/장애인/국가 유공자/3자녀 이상 가정/임산부 등)을 중복으로 받으실 수 없습니다. / 쿠폰 다운로드 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; 혜택 브랜드 &gt; 캐리비안 베이 쿠폰 다운로드 / 쿠폰 확인 방법 - T 멤버십 앱: 오른쪽 위 ≡ &gt; MY &gt; 쿠폰함 / 쿠폰 등록 방법: 혜택 쿠폰함에서 캐리비안 베이 쿠폰 선택 &gt; 인증 코드 복사 및 예매하러 가기 &gt; 인증 코드 입력 &gt; T 멤버십 전용 스마트 예약 페이지 접속 &gt; 회원가입/로그인 &gt; 방문일 선택 후 종일권 구매 / 캐리비안 베이 입장 방법: T 멤버십 전용 스마트 예약 페이지에서 종일권 구매 &gt; 카카오톡 알림톡 또는 문자로 캐리비안 베이 종일권 QR 코드 받기 &gt; 캐리비안 베이 정문에서 QR 코드 제시 * 이 쿠폰은 스마트 예약(온라인) 페이지에서만 사용하실 수 있습니다. 현장 매표소 및 키오스크에서 사용하실 수 없습니다. ▶ 캐리비안 베이 종일권 구매하기(T 멤버십 전용 예약 페이지) &gt;&gt; ▶ 캐리비안 베이 종일권 구매하기(T 멤버십 전용 예약 페이지) &gt;&gt; ▶ 캐리비안 베이 종일권 구매하기(T 멤버십 전용 예약 페이지) &gt;&gt; / 이 쿠폰은 T 멤버십 카드당 일 1회 다운로드하실 수 있습니다. / 이 쿠폰은 캐리비안 베이(에버랜드) 회원가입 후 이용하실 수 있습니다. / 종일권 구매 시 선택한 방문일에만 입장하실 수 있습니다. / 동반인 종일권을 함께 구매한 경우 같은 QR 코드로 동반인도 입장하실 수 있습니다. / 실제 결제 금액에 대해서만 현금 영수증을 발급받으실 수 있습니다.(이 쿠폰은 현금 영수증 발급 대상이 아닙니다.) / 쿠폰 사용 기간은 매달 1일부터 마지막 날까지이며, 연장하실 수 없습니다. / 환불과 관련된 사항은 에버랜드 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 이 쿠폰은 다른 쿠폰(종이 상품권, 모바일 상품권(금액권/제품권), 할인 쿠폰, 기타 쿠폰)과 함께 사용하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 결제 시 에버랜드 멤버십 포인트(솜 포인트)를 사용/적립하실 수 있습니다. / 만 36개월 미만 유아는 나이를 확인할 수 있는 서류를 보여 주시면 무료 입장할 수 있습니다.(단, 유아 놀이 시설의 이용요금은 별도입니다.) / 운영 시간은 현장 상황에 따라 사전 안내 없이 달라질 수 있습니다. 방문 전 캐리비안 베이 홈페이지에서 확인해 주시기 바랍니다. / 입장 후 종일권을 취소/환불하실 수 없습니다. ▶ 캐리비안 베이 홈페이지 바로 가기 &gt;&gt; ▶ 캐리비안 베이 홈페이지 바로 가기 &gt;&gt; ▶ 캐리비안 베이 홈페이지 바로 가기 &gt;&gt; / 에버랜드 고객센터(031-320-5000, 오전 9시~오후 6시, 연중무휴, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5225",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -5537,7 +5435,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5568,7 +5466,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5582,25 +5480,6 @@
         "SKT": null,
         "KT": null,
         "LGU": null
-      }
-    },
-    {
-      "brand": "케이팝머치",
-      "aliases": [],
-      "category": "LGU-기본혜택",
-      "status": "included",
-      "statusReason": null,
-      "carriers": {
-        "SKT": null,
-        "KT": null,
-        "LGU": {
-          "tiers": {
-            "ALL": "3천원 할인 (3만원 이상 구매 시) ※ 타 쿠폰과 중복사용 불가"
-          },
-          "conditions": "월 1회",
-          "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
-        }
       }
     },
     {
@@ -5623,7 +5502,7 @@
           },
           "conditions": "① 코드모스 12개월 프리미엄 이용권 약 35% 할인 / ② 코드모스 6개월 프리미엄 이용권 약 24% 할인 / ③ 코드모스 키즈 6개월 프리미엄 이용권 약 22% 할인 * 코드모스 6/12개월 프리미엄 이용권: 키즈(유아/유치부), 초등학생, 중학생을 대상으로 한 디지털 리터러시, 프로그래밍, 사고력, 게임 메이커, AI 특별 체험 등 총 48개 학습 콘텐츠 제공 * 코드모스 키즈 6개월 프리미엄 이용권: 키즈(유아/유치부), 초등학교 저학년을 대상으로 한 디지털 리터러시, 동화 코딩, 기초 프로그래밍, 기초 사고력, 기초 게임 메이커, AI 특별 체험 등 총 26개 학습 콘텐츠 제공 / T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 코드모스 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 등록 방법: 아래 '쿠폰 등록하기' 누르기 &gt; 학부모 메뉴에서 '플랜&가격' 선택 &gt; 쿠폰 번호 입력 &gt; 할인 적용 금액 확인 &gt; 결제 / 각 쿠폰은 고객님 본인 명의의 T 멤버십 카드당 매달 1장씩 다운로드하실 수 있습니다. / 혜택 ①, ②, ③ 쿠폰은 중복으로 사용하실 수 없습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라지며 복구되지 않습니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 이 쿠폰은 다른 쿠폰/제휴 혜택과 중복으로 적용되지 않습니다. / 환불과 관련된 사항은 코드모스 규정을 따릅니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 코드모스 고객센터(1577-8417, 평일 오전 9시~오후 6시, 점심시간 낮 12시 30분~오후 1시 30분, 유료) / 주말/공휴일 문의는 코드모스 홈페이지 상담을 이용해 주시기 바랍니다. ▶ 코드모스 홈페이지 바로 가기 &gt;&gt; ▶ 코드모스 홈페이지 바로 가기 &gt;&gt; ▶ 코드모스 홈페이지 바로 가기 &gt;&gt;",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5628",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -5643,7 +5522,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5668,7 +5547,7 @@
           },
           "conditions": "매장 직원에게 T 멤버십 카드 또는 T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 보여 주면 할인 혜택을 받으실 수 있습니다. / T 멤버십 앱의 일회용 바코드는 일회용으로 20분마다 변경됩니다. / T 멤버십 카드는 T 멤버십 앱에서 실행한 카드만 이용하실 수 있습니다.(일회용 바코드 및 카드를 캡처한 이미지, 플라스틱 카드는 이용 안 됨) / 혜택은 1일 1회 이용하실 수 있습니다.(당일 결제금액에 한해 적용) / 결제 금액을 기준으로 혜택이 적용됩니다.(최소 주문 금액 및 최대 할인 금액 제한 없음) / 포장 및 배달 주문 시 할인 혜택을 받으실 수 없습니다. / 런치메뉴, 런치정식, 점심특선, 비지니스코스는 이용하실 수 없습니다. / 타 쿠폰 할인, 적립, 상품권, 선결제권, 잔액권, No Ski(단품 메뉴), 현장이벤트, 할인메뉴 혜택과 중복으로 사용하실 수 없습니다. (11번가, 기프티콘, 테이블앤조이 등 할인 및 사용 중복 불가) / 혜택 이용 시 T 플러스포인트를 사용하실 수 없습니다. / 아래 이용 가능 매장 외 다른 매장에서는 혜택을 이용하실 수 없습니다. 매장 관련 자세한 정보는 홈페이지에서 확인하실 수 있습니다. 홈페이지 : www.대게나라.kr &gt; &gt; 홈페이지 : www.대게나라.kr &gt; &gt; 홈페이지 : www.대게나라.kr &gt; &gt; / [이용 가능 매장] 서울: 잠실점, 강남점, 서초점, 광장점, 노원점 경기: 분당판교점, 안양점, 동탄점, 평택점, 안산점, 부천점 인천: 송도점 충남: 천안점 대전: 대전유성점",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5242",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -5694,7 +5573,7 @@
           },
           "conditions": "일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 하루 1회 할인 / 36개월 이상~만 14세 미만 어린이는 보호자와 함께 입장하실 수 있습니다. / 외부 음식을 가져오거나 반려동물과 함께 입장하실 수 없습니다.(단, 시각 장애인 안내견은 제외) / 드론/무선 조종 장난감/전동 휠 등 전동 제품을 가지고 입장하실 수 없습니다.(단, 장애인 전동 휠체어 제외) / 본인과 동반 1인까지 혜택을 이용하실 수 있습니다. / 퇴장하면 다시 입장하실 수 없습니다. / T 플러스포인트를 사용하실 수 없습니다. / 방문하기 전에 클럽디 오아시스 홈페이지의 이용 안내 및 안전 수칙을 꼭 읽어 주시기 바랍니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5405",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -5703,7 +5582,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5718,11 +5597,11 @@
         "KT": null,
         "LGU": {
           "tiers": {
-            "ALL": "전 상품 5% 할인(최대 5만원 할인)"
+            "ALL": "전 상품 10% 할인(최대 5만원 할인)"
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5736,11 +5615,11 @@
         "SKT": null,
         "KT": {
           "tiers": {
-            "전등급": "전체 액티비티 5% 할인, 국내외 렌트카 7% 할인, 국내외 유심 7% 할인"
+            "전등급": "[이벤트 혜택] 전 세계 전 상품 10% 할인(최대 5만원)"
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5760,7 +5639,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5791,7 +5670,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5816,7 +5695,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 할인/적립 횟수 : 일 최대 8인 / 포인트 사용 횟수 : 제한 없음 / 일 최대 할인/적립 금액: 124,800원 / 반일권에만 할인/적립 적용(1인 단독 이용 할인/적립 불가. 단, 10세 이상 어린이 단독 입장 시 적용 가능) / 키자니아 서울/부산 현장, 홈페이지, 모바일 예매 시 할인/적립 가능 / 타 쿠폰, 할인 행사, 제휴카드, 포인트 사용 등 중복 적용 불가 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=927",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -5824,7 +5703,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5849,7 +5728,7 @@
           },
           "conditions": "쿠폰 다운로드 방법 - T 멤버십 앱: 로그인 &gt; 혜택 브랜드 &gt; 타요키즈카페에서 쿠폰 다운로드 / 다운로드한 쿠폰 확인 방법 - T 멤버십 앱: 로그인 &gt; T 멤버십 페이지 오른쪽 위 '≡' 선택 &gt; MY &gt; 쿠폰함 / 직원에게 쿠폰을 보여 주면 할인 혜택을 받으실 수 있습니다.(본인 및 동반 1인) / 본인 및 동반인 기준 * 본인 : 대인(14세 이상) * 동반인 : 소인(12개월 이상 ~ 13세), 대인(14세 이상) / T 멤버십 앱에 있는 쿠폰만 사용하실 수 있습니다.(캡처한 쿠폰 이미지 사용할 수 없음) / 이 쿠폰은 현장 결제 시에만 사용하실 수 있습니다.(온라인 구매 시 할인 적용 안 됨) / 이 쿠폰은 T 멤버십 카드당 매달 1장 다운로드하실 수 있습니다. / 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 다른 쿠폰/포인트와 중복으로 사용하실 수 없습니다. / 다른 할인 행사/제휴 카드 혜택과 중복으로 적용되지 않습니다. / 일부 매장에서는 혜택을 이용하실 수 없습니다. 아래 혜택 적용 매장을 확인하고 이용해 주시기 바랍니다. / 혜택 적용 매장 * 경기도: 타요키즈카페 북수원점, 타요키즈카페 주엽점, 타요키즈카페 진접점 * 경상남도: 타요키즈카페 창원점 * 전라북도: 타요키즈카페 익산점",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5017",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -5875,7 +5754,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택은 1일 1회 이용하실 수 있습니다.(할인은 테이블당 1회 받으실 수 있습니다.) / 일 최대 할인 금액은 VIP/GOLD 등급 15,000원, SILVER 등급 10,000원입니다. / 매장에서 주류를 제외한 모든 메뉴 주문 시 할인받으실 수 있습니다. / 결제 금액 기준 100,000원 한도 안에서 할인받으실 수 있습니다. / T 플러스포인트를 사용하실 수 없습니다. / 혜택 이용 시 캘리랜드 포인트를 사용 또는 적립 하실 수 없습니다. / 배달, 포장 주문 시에는 혜택을 이용하실 수 없습니다. / 계절 신메뉴, 카플친 이벤트, 기타 할인 프로모션 및 신용카드 제휴 할인과 중복으로 이용하실 수 없습니다. / 제휴사 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 유의 사항에서 이벤트 제외 매장을 꼭 확인하고 방문해 주시기 바랍니다. ※ 혜택 이용 가능 매장: 건대스타시티점, 신촌점, 역삼점 ※ 혜택 이용 제외 매장: 인천공항 모든 매장, 강남점, 마곡나루점, 망원역점, 서울고속터미널점, 신세계배곧점, 여주첼시점 ▶ 타코벨 매장 찾기 바로가기 &gt;&gt; ▶ 타코벨 매장 찾기 바로가기 &gt;&gt; ▶ 타코벨 매장 찾기 바로가기 &gt;&gt; / 캘리스코 고객센터(1833-4550, 평일 오전 8시 30분~오후 5시 30분, 점심시간 낮 12시~오후 1시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5780",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -5895,7 +5774,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -5927,7 +5806,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5946,7 +5825,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -5979,7 +5858,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6000,7 +5879,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6019,7 +5898,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6037,7 +5916,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6045,7 +5924,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6069,7 +5948,7 @@
           },
           "conditions": "티니핑월드 스탠다드 이용권(평일/주말) 아동 1명+성인 1명 입장권 20% 현장 할인 * 정가: 20,000원(아동 15,000원+성인 5,000원) → 혜택가 16,000원(아동 12,000원+성인 4,000원) * 주중/주말 동일 요금 적용 * 쿠폰 1장당 최대 7명까지 20% 할인받으실 수 있습니다.(아동 1명+성인 1명+동반 5명) * 제휴사 자체 이벤트와 중복으로 적용하실 수 없습니다. * 아동 기준은 만 12세까지입니다. / T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; 티니핑월드 인 판교 쿠폰 다운로드 &gt; MY &gt; 쿠폰함에서 확인 / 쿠폰 사용 방법: 매표소 직원에게 쿠폰 제시 또는 키오스크에서 사용 / 키오스크 이용 방법: 키오스크 화면 &gt; 초대권 사용 &gt; 쿠폰 바코드 스캔 &gt; 최종 결제 금액 확인 &gt; 결제 수단 선택 &gt; 결제 * 바코드 스캔이 안 될 경우 '번호로 조회' 선택 &gt; 바코드 번호(12자리) 입력 &gt; '조회하기'를 눌러 사용해 주시기 바랍니다. / 이 쿠폰은 T 멤버십 카드당 매달 2장 다운로드하실 수 있습니다. / 쿠폰당 1회 사용하실 수 있습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 기간이 지난 쿠폰은 사용하거나 다시 발급받으실 수 없습니다. / 쿠폰 사용 기간은 연장할 수 없습니다. / 기간이 지난 쿠폰은 자동으로 사라지며 복구되지 않습니다. / 이 쿠폰은 다른 사람에게 넘겨주거나 판매하실 수 없습니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 이 혜택은 다른 할인/적립/쿠폰 혜택과 중복으로 이용하실 수 없습니다. / 장애인 및 경로 우대 현장 할인과 중복으로 적용되지 않습니다. / 이 쿠폰은 평일/주말 상관없이 사용하실 수 있습니다. / 평일에는 예매한 회차에 입장하실 수 있습니다. 예약 시간 5분이 지나면 입장이 제한될 수 있으며, 이 경우 다음 회차에 입장 가능합니다. / 주말에는 회차 상관없이 입장하실 수 있습니다. / 유니버스 전시장은 여러 번 재입장하실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 티니핑월드 인 판교 고객센터(1533-0763, 평일/주말 오전 10시~오후 7시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5631",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6113,7 +5992,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6121,7 +6000,7 @@
           },
           "conditions": "3개월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6139,7 +6018,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6147,7 +6026,7 @@
           },
           "conditions": "3개월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6165,7 +6044,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6173,7 +6052,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6191,7 +6070,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6199,7 +6078,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6223,7 +6102,7 @@
           },
           "conditions": "할인 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 1일 1회 이용가능 / 결제 전 직원에게 T 멤버십 카드 제시 / 본인 및 동반 3인까지 20% 할인 / 타 할인/적립 혜택과 중복 적용 불가 / T 플러스포인트 사용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1067",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6249,7 +6128,7 @@
           },
           "conditions": "아쿠아스파권(통합권) 본인 20% 할인 및 동반 1인 20% 할인 / 아쿠아스파권(통합권) 정가 * 평수기: 대인 60,000원/소인 50,000원 * 성수기(동계: 2025년 12월 1일(월)~2026년 2월 28일(토), 하계: 2026년 7월 1일(수)~8월 31일(월)): 대인 70,000원/소인 60,000원 / T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 키오스크에 스캔하거나 매표소 직원에게 보여 주세요.(일회용 바코드는 20분마다 바뀝니다.) / T 멤버십 할인형/적립형 고객님 모두 할인받으실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 본 혜택은 현장 예매 및 구매 시에만 적용 가능합니다.(온라인 예매 시 혜택 적용 안 됨) / 횟수 제한: 1일 1회(본인 및 동반 1인까지) / 파라다이스 리워즈 멤버십 할인, 카드 할인 등 다른 혜택과 중복 적용되지 않습니다. / 쾌적하고 안전한 수영장 이용을 위해 공사가 진행될 수 있습니다. / 운영 시간은 시즌/시설별로 다를 수 있습니다. / 만 7세(2018년생)부터 입장할 수 있습니다. 단, 초등학생은 법적 보호자와 함께 입장해야 합니다.(연령 확인용 서류 지참 필수) / 전화: 파라다이스시티(1833-8855, 연중무휴, 유료) / 홈페이지: https://www.p-city.com/front/cimer/overview https://www.p-city.com/front/cimer/overview https://www.p-city.com/front/cimer/overview",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5755",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6275,7 +6154,7 @@
           },
           "conditions": "1일 자유이용권 본인 20% 할인 및 동반 1인 20% 할인 / 자유이용권 정가 * 대인: 28,000원(만 13세 이상) * 소인: 23,000원(37개월~만12세) * 유아: 무료 입장(0개월~36개월) / T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 키오스크에 스캔하거나 매표소 직원에게 보여 주세요.(일회용 바코드는 20분마다 바뀝니다.) / T 멤버십 할인형/적립형 고객님 모두 할인받으실 수 있습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 본 혜택은 현장 예매 및 구매 시에만 적용 가능합니다.(온라인 예매 시 혜택 적용 안 됨) / 횟수 제한: 1일 1회(본인 및 동반 1인까지) / 파라다이스 리워즈 멤버십 할인, 카드 할인 등 다른 혜택과 함께 이용하실 수 없습니다. / 현장 상황에 따라 일부 시설이 운영되지 않거나 점검이 진행될 수 있습니다. / 전화: 파라다이스시티(1833-8855, 연중무휴, 유료) / 홈페이지: https://www.p-city.com/front/wonderbox/overview https://www.p-city.com/front/wonderbox/overview https://www.p-city.com/front/wonderbox/overview",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5756",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6302,7 +6181,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 결제금액 1천 원 이상 시 할인 또는 적립 가능 / 최대 할인 가능 : 플라스틱 카드 이용 시 일 최대 10,000원 할인 / 최대 할인 가능 : 모바일 카드 이용 시 일 최대 VIP/GOLD 20,000원, SILVER 10,000원 할인 / 최대 적립 가능 : 플라스틱 카드 이용 시 일 최대 10,000P 적립 / 최대 적립 가능 : 모바일 카드 이용 시 일 최대 VIP/GOLD 20,000P, SILVER 10,000P 적립 / 결제 전 직원에게 T 멤버십 카드 제시 / 타 적립 및 쿠폰 동시 적용 불가 / 제외 매장 : 일부 점포(휴게소, 역사, 인샵, 특수매장 등) 제외 됩니다. / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1053",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -6313,7 +6192,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6323,7 +6202,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6348,7 +6227,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 결제금액 1천원 이상 시 할인 또는 적립 가능 / 최대 할인 가능: 플라스틱 카드 이용 시 10,000원 할인 / 최대 할인 가능 : 모바일 카드 이용 시 VIP/GOLD 20,000원, SILVER 10,000원 할인 / 최대 적립 가능: 플라스틱 카드 이용 시 10,000P 적립 / 최대 적립 가능 : 모바일 카드 이용 시 VIP/GOLD 20,000P, SILVER 10,000P 적립 / 결제 전 직원에게 T 멤버십 카드 제시 / 타 적립 및 쿠폰 동시 적용 불가 / 제외 매장: 일부 점포(휴게소, 역사, 인샵, 특수매장 등) 제외 됩니다. / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1121",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -6359,7 +6238,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6369,7 +6248,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6394,7 +6273,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인 또는 적립을 받으실 수 있습니다. / 파스쿠찌 매장 내 키오스크에서도 이용하실 수 있습니다. / 키오스크 이용 방법: 키오스크 화면 &gt; 매장 식사 또는 포장 선택 &gt; 메뉴 선택 &gt; 메뉴 확인 및 결제하기 &gt; 'SKT 할인' 선택 &gt; 일회용 바코드 스캔 &gt; 결제 수단 선택 및 결제 / '일회용 바코드'는 기존 T 멤버십 카드번호가 아닌, 20분 단위로 변경되는 본 혜택 전용 바코드를 의미합니다. / 키오스크에서는 플라스틱 카드를 이용하실 수 없습니다. 계산 시 직원에게 제시해 주시기 바랍니다. / 이 혜택은 매장 직원에게 일회용 바코드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 캡처한 일회용 바코드 이미지로는 혜택을 받으실 수 없습니다. / 횟수 제한: 1일 1회(할인 또는 적립) / 최대 할인 금액: 1일 최대 20,000원 / 최대 적립 포인트: 1일 최대 20,000P / 할인은 1원 단위에서 절사하여 혜택 적용됩니다. / 모든 메뉴에 혜택이 적용됩니다.(단, 세트/브런치 메뉴와 기타 할인 제품 제외) / 타 적립 및 쿠폰(모바일 상품권, 기타 쿠폰 등), 제휴 할인과 중복 적용되지 않습니다. / 일부 매장에서는 혜택을 이용하실 수 없습니다.(휴게소, 역사, 인샵, 특수매장 등) / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제 다음 날 사용 가능 포인트로 전환됩니다. / 멤버십 혜택은 매장 영업시간 안에 이용하실 수 있습니다.(영업 시간은 매장마다 다를 수 있습니다.) / 환불과 관련된 사항은 파스쿠찌 규정을 따릅니다. / 문의: 파스쿠찌 고객센터(080-731-2027, 평일 오전 9시~오후 5시, 점심시간 낮 12시~오후 1시, 무료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5569",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6417,7 +6296,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6442,7 +6321,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 피자를 제외한 사이드 메뉴, 음료만 주문 시 결제금액 18,000원 이상 배달 가능 / 세트메뉴/행사 제품/ 할인 적용 제품 할인 또는 적립 제외 / 횟수 제한: 1일 1회 할인 또는 적립, 사용 제한 없음. / 최대 할인 가능: 일 최대 VIP 60,000원, Gold/Silver 30,000원 할인 / 최대 적립 가능: 일 최대 VIP 60,000P, Gold/Silver 30,000P 적립 / 적립된 포인트는 '적립 예정' 포인트로 표시되며, 결제일로부터 5일 이후, 사용 가능 포인트로 전환됩니다. / 일부 특수 매장에서는 혜택을 이용하실 수 없습니다. * 특수 매장: 한솔 오크밸리점, KT 위즈파크점, SSG랜더스점, 평창 대관령점, 삼성 라이온즈 파크점, 곤지암 리조트점, 롯데마트 중계점, 광주 챔피언스필드점, 롯데 사직구장점",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=329",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -6453,7 +6332,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6472,7 +6351,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6504,7 +6383,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6523,7 +6402,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6542,7 +6421,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6560,7 +6439,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6580,7 +6459,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6599,7 +6478,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6624,29 +6503,10 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 직원에게 제시하여 주시기 바랍니다. / 키오스크 또는 폴 바셋 앱에서도 이용하실 수 있습니다. / 키오스크 이용 방법: 메뉴 선택 &gt; 주문 내역 확인 &gt; [T 멤버십 혜택 사용] 선택 &gt; T 멤버십 App 내 일회용 바코드 스캔 &gt; 할인 내역 및 적용 확인 &gt; 남은 금액 결제 * 키오스크에서는 T 플러스포인트를 사용하실 수 없습니다. / 폴 바셋 앱 이용 방법: 매장 선택 &gt; 메뉴 선택 &gt; 결제하기 &gt; [T 멤버십/T 우주 할인] 선택 &gt; T 멤버십 App 내 일회용 바코드 번호 입력 &gt; 할인 내역 및 적용 확인 &gt; 남은 금액 결제 / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 1일 1회 적립 또는 할인, 사용제한 없음 / 최대 할인 가능 : 일 최대 20,000원 / 최대 적립 가능 : 일 최대 20,000P / 시그니처 커피 4종(룽고/카페라떼/락토프리 카페라떼/카페 오트(사이즈 무관)) 대상으로 혜택 제공되며, 대상 제품 외 다른 제품 구매 시에는 혜택 제공되지 않음 / 폴 바셋 멤버십 쿠폰과 중복 사용 안 됨 / 대상 제품 외 다른 제품으로 교환 안 됨 / 다른 할인/적립 혜택과 중복 적용 안 됨 / 온라인 주문 채널 딜리버리 APP, 네이버 주문 시 사용 안 됨 / 제외 매장: 폴 바셋 현대카드 Café &Pub, 투고 바 롯데월드 어드벤처점, 삼성전자 평택캠퍼스점, 삼성전자 DSR점, 제주공항 국내선점, 인천공항 T1 입국점, 인천공항 T2 입국점, 하나금융그룹HQ점 / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=67",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
-      }
-    },
-    {
-      "brand": "폴라리스오피스",
-      "aliases": [],
-      "category": "LGU-기본혜택",
-      "status": "included",
-      "statusReason": null,
-      "carriers": {
-        "SKT": null,
-        "KT": null,
-        "LGU": {
-          "tiers": {
-            "ALL": "AI 요금제 1개월권 20% 할인"
-          },
-          "conditions": "월 1회",
-          "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
-        }
       }
     },
     {
@@ -6664,7 +6524,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6682,7 +6542,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6690,7 +6550,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6711,7 +6571,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6735,7 +6595,7 @@
           },
           "conditions": "쿠폰 다운로드 방법: T 멤버십 앱 &gt; 혜택 브랜드 &gt; 플래시백 계림 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰 사용 방법: 결제 시 매표소 직원에게 쿠폰 제시 / 전시명: &lt;플래시백: 계림(FLASHBACK : GYERIM)&gt; / 장소: 경상북도 경주시 천북남로 14(신평동 355, 보문단지 내) / 운영 시간: 오전 10시~오후 8시(입장 마감 오후 7시, 연중무휴) / 성인: 정가 25,000원 → T 멤버십 혜택가 17,500원 / 청소년: 정가 21,000원 → T 멤버십 혜택가 14,700원 / 어린이: 정가 17,000원 → T 멤버십 혜택가 11,900원 * 36개월 미만 영유아는 무료이며, 보호자가 동반해야 입장하실 수 있습니다. / 1인당 쿠폰 1장만 사용하실 수 있습니다. / 전시 관람 종료 후 재입장은 하실 수 없습니다. / 환불과 관련된 사항은 &lt;플래시백: 계림(FLASHBACK : GYERIM)&gt; 규정을 따릅니다. / 캡처한 쿠폰 이미지는 사용하실 수 없습니다. / 이 쿠폰은 현장 매표소에서만 사용하실 수 있습니다.(온라인으로 예매하실 수 없습니다.) / 이 쿠폰은 발급받은 달의 마지막 날까지 사용하실 수 있습니다. / 쿠폰 사용 기간은 연장할 수 없습니다. / 이 쿠폰은 T 플러스포인트와 함께 쓰실 수 없습니다. / 이 쿠폰은 다른 할인 및 혜택과 중복으로 사용할 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 이 쿠폰은 결제 후 취소 시 쿠폰을 다시 사용하실 수 없습니다. / 36개월 미만 영유아는 나이를 확인할 수 있는 서류(가족관계증명서 등) 확인 후 무료 입장하실 수 있습니다. / 전시장은 금연입니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=6013",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -6757,7 +6617,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6784,7 +6644,7 @@
           },
           "conditions": "T 멤버십 앱에 있는 일회용 바코드를 피자알볼로 앱에 입력하면 T 멤버십 할인 또는 적립 혜택을 받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이용 시간: 오전 10시~오후 11시 * 일부 매장은 다를 수 있습니다. ▶피자알볼로 주문하기 &gt;&gt; ▶피자알볼로 주문하기 &gt;&gt; ▶피자알볼로 주문하기 &gt;&gt; / 피자알볼로 앱에서 혜택을 이용하실 수 있습니다. / 이 혜택은 피자알볼로 앱 회원가입 후 이용 가능합니다. 회원이 아닌 경우 혜택을 이용하실 수 없습니다. / 본인 명의의 T 멤버십 아이디와 피자알볼로 아이디로 주문해야 혜택이 적용됩니다. / 피자알볼로 앱을 이용해야 혜택을 받으실 수 있습니다. 배달 앱 이용 시 혜택이 적용되지 않습니다. / 결제 금액 20,000원 이상 모든 제품 주문 시 할인 또는 적립 혜택을 받으실 수 있습니다. 단, 세트 메뉴, 행사 상품, 배달료 등에는 혜택이 적용되지 않습니다. / 배달료는 배달 지역 및 거리에 따라 다를 수 있습니다. / 1일 1회 할인 또는 적립하실 수 있습니다. T 플러스포인트 사용 횟수는 제한 없습니다. / 피자알볼로 상시 혜택은 같은 날에 배달/포장 혜택 모두 이용 가능하지만, 1개의 혜택만 받으실 수 있습니다. 배달과 포장 혜택을 같이 이용할 수 없습니다. / 최대 할인 금액은 일 최대 VIP 150,000원, GOLD/SILVER 100,000원입니다. / 최대 적립 금액은 일 최대 VIP 150,000P, GOLD/SILVER 100,000P입니다. / 적립된 T 플러스포인트는 '적립 예정' 포인트로 표시되며, 결제일 기준 5일 후에 사용하실 수 있습니다. / 다른 쿠폰/할인/적립 혜택과 중복으로 적용되지 않습니다. / 피자알볼로 모든 매장에서 이 혜택을 이용하실 수 있습니다. / 주문 취소는 매장 또는 온라인 주문 고객센터로 전화해 주시기 바랍니다. / 피자알볼로 고객센터: 02-2645-8495, 평일 오전 9시~오후 6시, 주말/공휴일 휴무, 유료",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5818",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -6792,7 +6652,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6818,7 +6678,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 T 멤버십 App 내 일회용 바코드 번호를 피자헛 Web/App에 입력해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 모든 제품 주문 시 할인 혜택 이용 가능(단, 반값 등 특가제품, 할인제품, 세트메뉴, 메가크런치피자의 경우 할인 제외) / 결제금액 기준 19,900원 이상 주문 시 배달 가능(할인/적립 혜택 적용 후 결제금액 기준) / 횟수 제한: 1일 1회 할인 또는 적립, 사용 제한 없음 / 최대 할인 가능: 일 최대 VIP 60,000원, GOLD/SILVER 40,000원 할인 / 최대 적립 가능: 일 최대 VIP 60,000P, GOLD/SILVER 40,000P 적립 / 적립된 포인트는 '적립 예정' 포인트로 표시되며, 결제일로부터 5일 이후, 사용 가능 포인트로 전환됩니다. / 인터넷, 전화, 레스토랑, 모바일 주문 시 이용 가능 / 타 행사/제휴(쿠폰, 제휴카드, 박스, 프리미엄, 피자 배달/포장 할인 행사, 매장 전용 프로모션)에는 중복 적용 불가 / 익스프레스 매장(천안삼성SDI점, 지산리조트점, 잠실야구장점)및 NEW 레스토랑 전용 메뉴 이용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=888",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -6826,7 +6686,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6834,7 +6694,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6853,7 +6713,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6871,7 +6731,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6890,7 +6750,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6909,7 +6769,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6928,7 +6788,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -6936,7 +6796,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6955,7 +6815,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -6974,7 +6834,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -6994,7 +6854,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7002,7 +6862,7 @@
           },
           "conditions": "VIP콕 통합 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7044,7 +6904,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7070,7 +6930,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한 : 전 서비스(상담/검사/치료 등) 1일 1회 할인 또는 적립, 사용제한 없음 / 최대 할인 가능 : 일 최대 20,000원 / 최대 적립 가능 : 일 최대 20,000P / 시스템 사정으로 인해 포인트 적립 & 사용의 경우 12월 내 가능 / 결제 전 직원에게 T 멤버십 카드 제시 / 일부 센터 이용 불가(자세한 매장명은 허그맘 홈페이지 참조) / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다.",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=152",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": {
@@ -7079,7 +6939,7 @@
           },
           "conditions": "최초 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7097,7 +6957,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7128,7 +6988,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7136,7 +6996,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7154,7 +7014,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7173,7 +7033,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7210,7 +7070,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. / 일회용 바코드는 기존 T 멤버십 카드 번호와 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 매장 직원에게 쿠폰을 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택은 T 멤버십 카드당 1일 1회 이용하실 수 있습니다. / 할인은 테이블당 1회 받으실 수 있습니다. / 일 최대 할인 금액은 VIP/GOLD 등급 15,000원, SILVER 등급 10,000원입니다. / 매장에서 주류를 제외한 모든 메뉴에 사용하실 수 있으며, 주류 제외 10,000원 이상 주문 시 할인받으실 수 있습니다. / 이 혜택은 당일 결제 건에 한하여 적용되며 다른 날의 결제 건 취소 후 다시 결제하실 수 없습니다. / 이 혜택을 이용하지 않고 결제를 하신 경우, 결제 취소 후 혜택을 적용하여 다시 결제 시 혜택이 적용되지 않습니다. / 결제 금액 기준 100,000원 한도 안에서 할인받으실 수 있습니다. / T 플러스포인트를 사용하실 수 없습니다. / 혜택 이용 시 캘리랜드 포인트를 사용 또는 적립 하실 수 없습니다. / 배달, 포장 주문 시에는 혜택을 이용하실 수 없습니다. / 계절 신메뉴, 카플친 이벤트, 기타 할인 프로모션 및 신용카드 제휴 할인과 중복으로 이용하실 수 없습니다. / 제휴사 사정에 따라 일부 매장에서는 혜택을 이용하실 수 없습니다. 유의 사항에서 이용 가능 매장을 꼭 확인하고 방문해 주시기 바랍니다. ※ 혜택 이용 가능 매장 : 광화문D타워점, 롯데인천점, 신세계배곧아울렛점, 타임스퀘어점 ※ 혜택 이용 제외 매장 : 신세계강남점, 신세계사우스시티점, 신세계센텀점, 여의도IFC몰점, 파라다이스시티점 ▶ 히바린 매장 찾기 바로가기 &gt;&gt; ▶ 히바린 매장 찾기 바로가기 &gt;&gt; ▶ 히바린 매장 찾기 바로가기 &gt;&gt; / 캘리스코 고객센터(1833-4550, 평일 오전 8시 30분~오후 5시 30분, 점심시간 낮 12시~오후 1시, 유료)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5779",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -7231,7 +7091,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7249,7 +7109,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7268,7 +7128,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7287,7 +7147,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7319,7 +7179,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7343,7 +7203,7 @@
           },
           "conditions": "T 멤버십 앱에서 쿠폰 다운로드 후 혜택을 이용하실 수 있습니다. - T 멤버십 앱 &gt; 혜택 브랜드 &gt; bhc 쿠폰 다운로드 &gt; 'MY' 쿠폰함에서 확인 / 쿠폰은 bhc 앱에서 결제 시 사용하실 수 있습니다. ▶ bhc 앱 바로 가기 &gt;&gt; / 쿠폰 등록 및 사용 방법: bhc 앱 &gt; 메인 화면 내 '할인쿠폰' &gt; 쿠폰 코드 입력 및 등록 &gt; 주문 유형(배달/포장) 선택 &gt; 주소 설정 및 주문 매장 선택 &gt; 주문 및 결제 정보 확인 &gt; 결제 / 이 혜택은 T 멤버십 카드당 월 2회 이용하실 수 있습니다.(단, 쿠폰 2장 동시 사용 안 됨) / 쿠폰은 매장 영업 시간에만 사용하실 수 있습니다. / 매장별로 오픈/마감 시간, 휴무일 차이가 있을 수 있습니다. 미리 매장에 확인 후 이용하시기 바랍니다. / 배달비를 제외하고 치킨 메뉴를 포함하여 20,000원 이상 구매 시 쿠폰을 사용하실 수 있습니다. / 이 쿠폰은 다운로드한 달의 마지막 날까지 사용하실 수 있습니다. / 이 쿠폰은 다른 쿠폰 및 이벤트, 제휴 할인과 중복으로 적용되지 않습니다.(종이 상품권, 모바일 상품권(금액권/제품권), 할인 쿠폰, 기타 쿠폰과 동시 사용 안 됨) / 쿠폰 사용 시 T 플러스포인트를 사용하실 수 없습니다. / 이 쿠폰은 상품권이나 현금으로 교환하실 수 없습니다. / 매장 상황 및 거리에 따라 배달이 되지 않거나 배달비가 발생할 수 있으며, 지역에 따라 배달비가 다를 수 있습니다. / bhc 앱에 등록되지 않은 특수 매장에서는 쿠폰을 사용하실 수 없습니다. / 제주 지역 및 일부 특수 매장(군부대, 야구장 등)은 판매 가격이 달라 추가 금액이 발생할 수 있습니다. / bhc 고객센터(1577-5577, 낮 12시~오후 11시 30분, 유료) ▶ bhc 홈페이지 바로 가기 &gt;&gt; ▶ bhc 홈페이지 바로 가기 &gt;&gt; ▶ bhc 홈페이지 바로 가기 &gt;&gt;",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5814",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -7369,7 +7229,7 @@
           },
           "conditions": "VIP PICK 혜택은 고객님 본인에 한해 월 1회 이용하실 수 있습니다. / T 멤버십 앱에서 예매 시 혜택을 받으실 수 있습니다. / 예매 취소는 취소 가능 시간 안에 T 멤버십 앱 '무비' 에서 하실 수 있습니다. 또는 상영 시간 전까지 영화관 현장에서 취소하실 수 있습니다. / 쿠폰/포인트/카드 등 다른 할인 혜택과 중복으로 적용되지 않습니다. / VIP PICK 혜택으로 예매하실 수 있는 좌석은 영화관 홈페이지와 다를 수 있습니다. / 일부 상영 시간은 영화관 요청에 따라 표기되지 않을 수 있습니다. / 무료 관람과 평일/주말 관람 1+1 혜택은 2D 일반 영화에만 적용됩니다. / '일부 특별관'에서 상영하는 영화를 평일/주말 구분 없이 할인가 15,000원~19,000원에 예매하실 수 있습니다.(무료 관람, 평일/주말 관람 1+1 혜택과 중복 이용 가능, 연 12회) * 대상 특별관: CGV 4DX 2D, CGV SCREENX 2D, CGV IMAX 2D / VIP PICK 무료 관람 및 및 평일/주말 관람 1+1 혜택은 예매 정가 7,000원 이상 영화에만 적용됩니다. / VIP PICK은 매달 1개의 제휴사 혜택만 이용하실 수 있습니다. 다른 VIP PICK 혜택을 이용한 달에는 영화 혜택을 받으실 수 없습니다. / VIP PICK 혜택은 SK텔레콤과 제휴사 사정에 따라 변경되거나 종료될 수 있습니다. / VIP PICK 혜택으로 영화 무료 관람 연 3회와 평일/주말 관람 1+1 연 9회를 이용하실 수 있습니다.(다른 VIP PICK 혜택과 영화 혜택을 포함해 연 12회 이용 가능) / 특별관 예매 혜택은 VIP PICK 연 12회에 포함되지 않습니다.(연 12회 추가 제공) / T 플러스포인트를 사용하실 수 없습니다. / 일부 영화는 배급사 및 극장사의 요청으로 예매가 제한될 수 있습니다. / T 멤버십 앱에서 예매 시 혜택을 받으실 수 있습니다. / 예매 정가에 따라 최대 4,000원 할인받으실 수 있습니다. * 11,000원권은 1,000원 할인/12,000원권은 2,000원 할인/13,000원권은 3,000원 할인/14,000원 이상은 4,000원 할인 / 하루 1회, 2D 일반 영화에 한해 예매하실 수 있습니다. / 1회에 최대 5개 좌석을 예매하실 수 있습니다. / 예매 취소는 취소 가능 시간 안에 T 멤버십 앱 '무비' 에서 하실 수 있습니다. 또는 상영 시간 전까지 영화관 현장에서 취소하실 수 있습니다. / 쿠폰/포인트/카드 등 다른 할인 혜택과 중복으로 적용되지 않습니다. / T 멤버십 혜택으로 예매하실 수 있는 좌석은 영화관 홈페이지와 다를 수 있습니다. / 일부 상영 시간은 영화관 요청에 따라 표기되지 않을 수 있습니다. / T 플러스포인트를 사용하실 수 없습니다. / 일부 영화는 배급사 및 극장사의 요청으로 예매가 제한될 수 있습니다. / CGV 고객센터(1544-1122, 평일 오전 9시~오후 6시) / CGV 홈페이지(https://www.cgv.co.kr/)",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=973",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -7377,7 +7237,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7385,7 +7245,7 @@
           },
           "conditions": "월 1회 (※쿠폰 소진 시 발급이 불가 할 수 있습니다.)",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7405,7 +7265,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7431,7 +7291,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 할인/적립 횟수 : 1일 1회 / 포인트 사용 횟수 : 제한 없음 / 일 최대 할인 가능 : VIP/GOLD 20,000원, SILVER 10,000원 / 일 최대 적립 가능 : VIP/GOLD 20,000P, SILVER 10,000P / 1천 원 이상 금액 결제 시 혜택 적용 / 타 쿠폰, 할인 행사, 제휴 카드, 타 포인트 사용 등 중복 적용 불가 - 할인/적립/사용 제외 상품 : 행사 상품(1+1, 2+1 등), 담배, 주류, 종량제 봉투, 안전상비의약품, 유가증권(상품권, 교통카드 충전) 등 - 할인/적립/사용 제외 서비스 : 매장 서비스 전체 (택배, 복권, 인쇄·복사), 주문 대행 판매(배달·픽업·예약 구매) 등 / 일부 특수 매장(휴게소, 리조트, 전시관, 테마파크, 병원, 공항 등)에서는 할인/적립/사용 불가합니다. / 적립된 포인트는 ‘적립 예정’ 포인트로 표시되며, 결제일 1일 이후부터 사용 가능 포인트로 전환됩니다. / 타 쿠폰, 할인 행사, 제휴 카드, 타 포인트 사용 등 중복 적용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=146",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -7439,7 +7299,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7461,7 +7321,7 @@
           },
           "conditions": "월 1회 / 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7503,7 +7363,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7513,7 +7373,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7537,7 +7397,7 @@
           },
           "conditions": "T 멤버십 앱의 일회용 바코드 또는 플라스틱 카드를 매장 직원에게 보여 주면 할인받으실 수 있습니다. - T 멤버십 앱: 매장 직원에게 일회용 바코드 또는 플라스틱 카드 제시 * 일회용 바코드는 기존 T 멤버십 카드 번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 이 혜택은 GS25 편의점에서 이용하실 수 있습니다. / 이 혜택은 매장 직원에게 일회용 바코드 또는 플라스틱 카드를 보여 주고 결제하는 경우에만 이용하실 수 있습니다. / 이 혜택을 이용하면 매주 화요일, 프레시 푸드(도시락, 김밥, 주먹밥, 삼각김밥, 햄버거/샌드위치)에 한해 1회 할인받으실 수 있습니다. * 할인 제외 상품: 행사 상품(1+1, 2+1, 증정, 할인) / 1천 원 이상 결제 시 혜택이 적용됩니다. / 이 혜택의 최대 할인 금액은 20,000원입니다.(혜택이 적용되지 않는 상품을 제외하고, 결제 금액 100,000원 한도 안에서 혜택 이용 가능) / 일부 특수 매장(휴게소, 리조트, 전시관, 테마파크, 병원, 공항, 군부대 PX 등)에서는 할인받으실 수 없습니다. / 이 혜택은 다른 쿠폰/혜택과 중복으로 적용되지 않습니다. / T 플러스포인트를 함께 사용하실 수 없습니다. / 환불과 관련된 사항은 GS25 규정을 따릅니다. / GS25 고객센터: 1644-5425, 평일 오전 9시~오후 6시, 유료",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=5321",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -7548,7 +7408,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7558,7 +7418,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7576,7 +7436,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7598,7 +7458,7 @@
           },
           "conditions": "월 1회 / 월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7617,7 +7477,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7635,7 +7495,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7654,7 +7514,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7675,7 +7535,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7697,7 +7557,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7716,7 +7576,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7736,7 +7596,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7757,7 +7617,7 @@
           },
           "conditions": "제한 없음",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7776,7 +7636,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7797,7 +7657,7 @@
           },
           "conditions": "일 1회 - BLUE석, RED석, NAVY석, GREEN석에 한함 - 정규시즌 잠실 홈경기에 한함 ※ 중복 할인 불가",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7815,7 +7675,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7834,7 +7694,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7853,7 +7713,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -7875,7 +7735,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7883,7 +7743,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -7907,7 +7767,7 @@
           },
           "conditions": "주중만 사용 가능(주말/공휴일 이용 불가) / 할인 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 1일 1회 이용가능 / 결제 전 직원에게 T 멤버십 제시 / 본인 및 동반 1인 25% 할인 / 현장 결제 시 이용가능 / 타 할인/적립 혜택과 중복 적용 불가 / T 플러스포인트 사용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=1099",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": null,
         "LGU": null
@@ -7939,7 +7799,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -7947,7 +7807,7 @@
           },
           "conditions": "일 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -8085,7 +7945,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -8105,7 +7965,7 @@
           },
           "conditions": "최초 1회, 1개월 제공",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -8130,7 +7990,7 @@
           },
           "conditions": "할인 또는 적립 혜택을 받기 위해서는 반드시 직원에게 T 멤버십 App 내 일회용 바코드 또는 플라스틱 카드를 제시해야 합니다. / 일회용 바코드는 기존 T 멤버십 카드번호와는 달리 20분 단위로 변경되는 바코드를 의미합니다. / 횟수 제한: 1일 1회 할인 또는 적립, T 플러스포인트 사용횟수 제한 없음 / 최대 할인 가능: 일 최대 VIP/GOLD 30,000원, SILVER 10,000원 할인 / 최대 적립 가능: 일 최대 VIP/GOLD 30,000P, SILVER 10,000P 적립 / CJ ONE Point 적립 가능 / 타 쿠폰 및 타 행사 등 다른 혜택과 중복 적용 불가 / 신용카드 할인 중복 적용 불가",
           "sourceUrl": "https://sktmembership.tworld.co.kr/mps/pc-bff/benefitbrand/detail.do?brandId=918",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "KT": {
           "tiers": {
@@ -8141,7 +8001,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": {
           "tiers": {
@@ -8151,7 +8011,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -8181,7 +8041,7 @@
           },
           "conditions": "",
           "sourceUrl": "https://m.membership.kt.com/discount/partner/s_PartnerList.do",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         },
         "LGU": null
       }
@@ -8201,7 +8061,7 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
         }
       }
     },
@@ -8232,7 +8092,26 @@
           },
           "conditions": "월 1회",
           "sourceUrl": "https://m.lguplus.com/benefit-membership",
-          "collectedAt": "2026-09-30"
+          "collectedAt": "2026-10-02"
+        }
+      }
+    },
+    {
+      "brand": "zel",
+      "aliases": [],
+      "category": "LGU-기본혜택",
+      "status": "included",
+      "statusReason": null,
+      "carriers": {
+        "SKT": null,
+        "KT": null,
+        "LGU": {
+          "tiers": {
+            "ALL": "전 제품 10% 할인 (4만원 이상 주문 시, 최대 1만원 할인)"
+          },
+          "conditions": "월 1회",
+          "sourceUrl": "https://m.lguplus.com/benefit-membership",
+          "collectedAt": "2026-10-02"
         }
       }
     }
