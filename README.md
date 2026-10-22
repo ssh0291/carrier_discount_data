@@ -2,7 +2,7 @@
 
 > 이 저장소는 **통신사할인알림 앱**(비공개 저장소 `carrier_discount_app`)이 쓰는 데이터 파일 하나(`benefits.json`)만 담고 있습니다.
 > 이어서 작업하는 AI/개발자는 이 README와 `AGENTS.md`를 읽고, 더 자세한 배경은 비공개 저장소 `carrier_discount_app`의 README **9번 "인수인계 가이드"**를 보세요(접근 권한 필요).
-> 마지막 갱신: 2026-10-02
+> 마지막 갱신: 2026-10-22
 
 ## 1. 목적
 
@@ -10,16 +10,16 @@
 
 ## 2. 소개
 
-SKT/KT/LG U+ 멤버십 제휴 할인 브랜드 목록 `benefits.json` 저장소. 국내 개인 서버가 매주 토요일 새벽 3시에 통신사 공식 페이지를 다시 수집해서 이 파일을 갱신하고, 휴대폰 앱이 주 1회 이 파일을 받아간다.
+SKT/KT/LG U+ 멤버십 제휴 할인 브랜드 목록 `benefits.json` 저장소. 국내 개인 서버가 매주 일요일 새벽 3시에 통신사 공식 페이지를 다시 수집해서 이 파일을 갱신하고, 휴대폰 앱이 주 1회 이 파일을 받아간다.
 
 ## 3. 개요 (전체 작동 흐름)
 
-1. **언제**: 매주 토요일 새벽 3시(한국시간 기준으로 맞춰져 있어야 함)
+1. **언제**: 매주 일요일 새벽 3시(한국시간 기준으로 맞춰져 있어야 함)
 2. **무엇이**: 국내 개인 서버의 예약 작업(크론)이
 3. **어떻게**:
    - 비공개 저장소의 수집 스크립트(`tools/collect-benefits/collect.js`)로 SKT/KT/LG U+ 공식 페이지를 다시 긁어 최신 `benefits.json`을 만든다 (LG U+는 한국 IP에서만 접속되어서 반드시 국내 서버에서 실행)
    - 바뀐 내용이 있으면 이 저장소에 커밋하고 push한다
-   - `통신사할인알림` 앱은 "지난 토요일 새벽 3시(한국시간) 이후 첫 실행"에 아래 주소에서 이 파일을 한 번 받아 내부에 저장하고, 이후 매장 검색에 그 내용을 쓴다
+   - `통신사할인알림` 앱은 "지난 일요일 새벽 3시(한국시간) 이후 첫 실행"에 아래 주소에서 이 파일을 한 번 받아 내부에 저장하고, 이후 매장 검색에 그 내용을 쓴다
 
 ```
 https://raw.githubusercontent.com/ssh0291/carrier_discount_data/main/benefits.json
@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/ssh0291/carrier_discount_data/main/benefits.js
 - **2026-09-29**: 앱 자동 갱신용으로 이 저장소를 처음 만듦. GitHub Actions로 매달 자동 수집을 시도했으나 LG U+가 해외/클라우드 IP를 막아 실패 → 저장소·자동화 전체 삭제.
 - **2026-09-30**: 국내 개인 서버의 주 1회(토 03:00) 크론 방식으로 바꾸며 저장소를 다시 만듦. 서버가 직접 push하도록 연결(저장소 전용 접속 열쇠, 쓰기 권한). LG U+ 혜택을 "VVIP/VIP·우수" 등 등급별로 정확히 나눠 담도록 수정한 데이터로 갱신.
 - **2026-10-02**: README 보강, `AGENTS.md` 추가(인수인계용).
+- **2026-10-22**: 서버 예약을 매주 일요일 새벽 3시(한국시간)로 변경하고 실제 실행 예약을 확인. 앱 갱신 안내와 운영 점검 문구도 일요일 기준으로 수정.
 
 ## 6. 주안점
 
@@ -83,13 +84,13 @@ https://raw.githubusercontent.com/ssh0291/carrier_discount_data/main/benefits.js
 
 ### 갱신이 잘못됐을 때
 - `counts`의 `included`가 평소(약 254)보다 크게 줄었다면 통신사 페이지 구조가 바뀌었거나 접속이 막힌 것이다. 그런 데이터는 올리지 말고 원인을 먼저 확인한다. (예: LG U+가 막히면 `included`가 157 안팎으로 급감함)
-- **정상이면 매주 토요일(새벽 3시 이후)에 커밋이 하나씩 생긴다.** 파일 안에 수집한 날짜(`collectedAt`)가 들어 있어서 혜택 내용이 같아도 매주 파일이 달라지기 때문이다. 어느 토요일을 지나도 커밋이 안 생기면 서버 작업이 멈춘 것이니 확인한다(서버 로그 확인 방법은 비공개 저장소 `carrier_discount_app` README 9-6).
+- **정상이면 매주 일요일(새벽 3시 이후)에 커밋이 하나씩 생긴다.** 파일 안에 수집한 날짜(`collectedAt`)가 들어 있어서 혜택 내용이 같아도 매주 파일이 달라지기 때문이다. 어느 일요일을 지나도 커밋이 안 생기면 서버 작업이 멈춘 것이니 확인한다(서버 로그 확인 방법은 비공개 저장소 `carrier_discount_app` README 9-6).
 - 수집 개수는 통신사 사정으로 조금씩 달라진다(예: 2026-09-27 총 379개, 2026-10-02 서버 연습 실행 373개). 몇 개 차이는 정상이고, **LG U+가 0개로 나오거나 `included`가 150대로 급감**하면 이상 신호다.
 
 ## 8. 삭제 안내 (더 이상 쓰지 않을 경우)
 
 1. **서버의 예약 작업 해제** (요금 나가는 항목 없음 — 전부 무료/기존 서버 재사용)
-   - 서버에 root로 접속 → `crontab -e` → `weekly_update.sh`가 들어간 줄(`0 3 * * 6 /opt/carrier_discount_app/weekly_update.sh ...`) 삭제 후 저장. (자세한 순서는 비공개 저장소 `carrier_discount_app` README의 "8. 삭제 안내 ④")
+   - 서버에 root로 접속 → `crontab -e` → `weekly_update.sh`가 들어간 줄(`0 3 * * 0 /opt/carrier_discount_app/weekly_update.sh ...`) 삭제 후 저장. (자세한 순서는 비공개 저장소 `carrier_discount_app` README의 "8. 삭제 안내 ④")
    - 서버의 `/opt/carrier_discount_data` 폴더 삭제, 서버의 이 저장소 전용 접속 열쇠 `~/.ssh/github-carrier-data`(+ `.pub`)와 `~/.ssh/config`의 `Host github-carrier-data` 항목 삭제.
 2. **접속 열쇠 삭제**: https://github.com/ssh0291/carrier_discount_data/settings/keys → 서버용 열쇠 오른쪽 **Delete**
 3. **이 저장소 삭제**: https://github.com/ssh0291/carrier_discount_data/settings → 맨 아래 **Delete this repository** → 안내대로 저장소 이름 입력 → 삭제
